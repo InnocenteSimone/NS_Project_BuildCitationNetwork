@@ -1,0 +1,121 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pratama, NR
+   Wafa, IA
+   Budi, DS
+   Putra, M
+   Wardhana, MP
+   Wungu, CDK
+AF Pratama, Nando Reza
+   Wafa, Ifan Ali
+   Budi, David Setyo
+   Putra, Manesha
+   Wardhana, Manggala Pasca
+   Wungu, Citrawati Dyah Kencono
+TI mRNA Covid-19 vaccines in pregnancy: A systematic review
+SO PLOS ONE
+LA English
+DT Review
+ID HERD-IMMUNITY; TRANSPLACENTAL TRANSFER; ANTIBODIES; INFECTION
+AB Objective
+   Pregnancy is a known risk factor for severe Coronavirus disease 2019. It is important to develop safe vaccines that elicit strong maternal and fetal antibody responses.
+   Methods
+   Registries (ClinicalTrials.gov, the WHO Clinical Trial Registry, and the European Union Clinical Trial Registry) and databases (MEDLINE, ScienceDirect, Cochrane Library, Proquest, Springer, medRxiv, and bioRxiv) were systematically searched in June 20-22, 2021, for research articles pertaining to Covid-19 and pregnancy. Manual searches of bioRxiv and medRxiv were also conducted. Inclusion criteria were studies that focused on Covid-19 vaccination among pregnant women, while review articles and non-human studies were excluded. Infection rate, maternal antibody response, transplacental antibody transfer, and adverse events were described.
+   Results
+   There were 13 observational studies with a total of 48,039 pregnant women who received mRNA vaccines. Of those, three studies investigated infection rate, six studies investigated maternal antibody response, seven studies investigated antibody transfer, three studies reported local adverse events, and five studies reported systemic adverse events. The available data suggested that the mRNA-based vaccines (Pfizer-BioNTech and Moderna) can prevent future SARS-CoV-2 infection. These vaccines did not show clear harm in pregnancy. The most commonly encountered adverse reactions were pain at the injection site, fatigue, and headache, but these were transient. Antibody responses were rapid after the first vaccine dose. After the booster, antibody responses were stronger and associated with better transplacental antibody transfer. Longer intervals between first vaccination dose and delivery were also associated with higher antibody fetal IgG and a better antibody transfer ratio.
+   Conclusions
+   The SARS-CoV-2 mRNA vaccines are encouraged for pregnancy. These vaccines can be a safe option for pregnant women and their fetuses. Two vaccine doses are recommended for more robust maternal and fetal antibody responses. Longer latency is associated with higher fetal antibody responses. Further research about its long-term effect on pregnancy is needed.
+C1 [Pratama, Nando Reza; Wafa, Ifan Ali; Budi, David Setyo] Univ Airlangga, Fac Med, Surabaya, Indonesia.
+   [Putra, Manesha] Univ Colorado, Dept Obstet & Gynecol, Div Maternal Fetal Med, Anschutz Sch Med, Aurora, CO USA.
+   [Wardhana, Manggala Pasca] Univ Airlangga, Dr Soetomo Gen Hosp, Fac Med, Dept Obstet & Gynecol, Surabaya, Indonesia.
+   [Wungu, Citrawati Dyah Kencono] Univ Airlangga, Fac Med, Dept Physiol & Med Biochem, Surabaya, Indonesia.
+   [Wungu, Citrawati Dyah Kencono] Univ Airlangga, Inst Trop Dis, Surabaya, Indonesia.
+RP Wungu, CDK (corresponding author), Univ Airlangga, Fac Med, Dept Physiol & Med Biochem, Surabaya, Indonesia.; Wungu, CDK (corresponding author), Univ Airlangga, Inst Trop Dis, Surabaya, Indonesia.
+EM citrawati.dyah@fk.unair.ac.id
+RI ; Wardhana, Manggala Pasca/AAM-5919-2021
+OI PRATAMA, NANDO REZA/0000-0001-5627-7525; Budi, David
+   Setyo/0000-0002-0317-6402; Wardhana, Manggala Pasca/0000-0001-8013-4639;
+   Kencono Wungu, Citrawati Dyah/0000-0001-5180-957X
+CR Abu-Raddad LJ, 2021, NEW ENGL J MED, V385, P187, DOI 10.1056/NEJMc2104974
+   Anderson RM, 2020, LANCET, V396, P1614, DOI 10.1016/S0140-6736(20)32318-7
+   Atyeo C, 2021, CELL, V184, P628, DOI 10.1016/j.cell.2020.12.027
+   Baden LR, 2021, NEW ENGL J MED, V384, P403, DOI 10.1056/NEJMoa2035389
+   Bartsch SM, 2020, AM J PREV MED, V59, P493, DOI 10.1016/j.amepre.2020.06.011
+   Beharier O, 2021, J CLIN INVEST, V131, DOI [10.1172/JCI154834, 10.1172/JCI150319]
+   Bian LL, 2021, EXPERT REV VACCINES, V20, P365, DOI 10.1080/14760584.2021.1903879
+   Boehm E, 2021, CLIN MICROBIOL INFEC, V27, P1109, DOI 10.1016/j.cmi.2021.05.022
+   Castanha PMS, 2019, PLOS NEGLECT TROP D, V13, DOI 10.1371/journal.pntd.0007246
+   Collier ARY, 2021, JAMA-J AM MED ASSOC, V325, P2370, DOI 10.1001/jama.2021.7563
+   Cuningham W, 2019, INFLUENZA OTHER RESP, V13, P438, DOI 10.1111/irv.12649
+   Dashraath P, 2020, AM J OBSTET GYNECOL, V222, P521, DOI 10.1016/j.ajog.2020.03.021
+   Edlow AG, 2020, JAMA NETW OPEN, V3, DOI 10.1001/jamanetworkopen.2020.30455
+   Giles ML, 2019, HUM VACC IMMUNOTHER, V15, P687, DOI 10.1080/21645515.2018.1540807
+   Gill L, 2021, OBSTET GYNECOL, V137, P894, DOI 10.1097/AOG.0000000000004367
+   Goldshtein I, 2021, JAMA-J AM MED ASSOC, V326, P728, DOI 10.1001/jama.2021.11035
+   Gomez CE, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9030243
+   Goncalves G, 1999, EPIDEMIOL INFECT, V122, P273, DOI 10.1017/S0950268899002046
+   Gray KJ, 2021, AM J OBSTET GYNECOL, V225, DOI 10.1016/j.ajog.2021.03.023
+   Griffith BC, 2020, VACCINE, V38, P8040, DOI 10.1016/j.vaccine.2020.09.076
+   Haghpanah F, 2021, ECLINICALMEDICINE, V35, DOI 10.1016/j.eclinm.2021.100863
+   Heininger U, 2009, PEDIATR INFECT DIS J, V28, P443, DOI 10.1097/INF.0b013e318193ead7
+   Hoffmann M, 2021, CELL, V184, P2384, DOI 10.1016/j.cell.2021.03.036
+   Huang CL, 2020, LANCET, V395, P497, DOI 10.1016/S0140-6736(20)30183-5
+   Jennewein MF, 2019, CELL, V178, P202, DOI 10.1016/j.cell.2019.05.044
+   Joanna Briggs Institute, CHECKL SYST REV RES
+   Kadali RAK, 2021, AM J OBSTET GYNECOL, V225, P458, DOI 10.1016/j.ajog.2021.06.007
+   Kann L, 2016, MMWR SURVEILL SUMM, V65, P1, DOI 10.15585/mmwr.ss6506a1
+   Korber B, 2020, CELL, V182, P812, DOI 10.1016/j.cell.2020.06.043
+   Nasreen S., 2021, EFFECTIVENESS COVID, DOI 10.1101/2021.06.28.21259420
+   Page MJ, 2021, BMJ-BRIT MED J, V372, DOI 10.1136/bmj.n71
+   Paul G, 2021, BMC PEDIATR, V21, DOI 10.1186/s12887-021-02618-y
+   Perret C, 2005, J INFECTION, V51, P287, DOI 10.1016/j.jinf.2004.10.003
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Prabhu M, BIORXIV PREPRINT, V2021, DOI [10.1101/2021.04.05.438524, DOI 10.1101/2021.04.05.438524]
+   Randolph HE, 2020, IMMUNITY, V52, P737, DOI 10.1016/j.immuni.2020.04.012
+   Riley LE, 2021, NEW ENGL J MED, V384, P2342, DOI 10.1056/NEJMe2107070
+   Rottenstreich A, 2021, CLIN INFECT DIS, V73, P1909, DOI 10.1093/cid/ciab266
+   Saier MH, 2007, WATER AIR SOIL POLL, V181, P1, DOI 10.1007/s11270-007-9372-6
+   Shakib JH, 2013, J PEDIATR-US, V163, P1422, DOI 10.1016/j.jpeds.2013.06.021
+   Shanes ED, 2021, OBSTET GYNECOL, V138, P281, DOI 10.1097/AOG.0000000000004457
+   Sheikh A, 2021, LANCET, V397, P2461, DOI 10.1016/S0140-6736(21)01358-1
+   Shimabukuro TT, 2021, NEW ENGL J MED, V384, P2273, DOI 10.1056/NEJMoa2104983
+   Starr TN, 2021, CELL REP MED, V2, DOI 10.1016/j.xcrm.2021.100255
+   Sutton D, 2020, NEW ENGL J MED, V382, P2163, DOI 10.1056/NEJMc2009316
+   Theiler RN, 2021, AM J OBST GYNEC MFM, V3, DOI 10.1016/j.ajogmf.2021.100467
+   Van Spall HGC, 2021, EUR HEART J, V42, P2724, DOI 10.1093/eurheartj/ehab103
+   Wang PF, 2021, NATURE, V593, P130, DOI [10.1038/s41586-021-03398-2, 10.1101/2021.01.25.428137]
+   Wardhana MP, 2021, PAK J MED HEALTH SCI, V15, P508
+   Wells G., NEWCASTLE OTTAWA SCA
+   Xia YQ, 2020, FRONT CELL DEV BIOL, V8, DOI 10.3389/fcell.2020.547314
+   Yanes-Lane M, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0241536
+   Zambrano LD, 2020, MMWR-MORBID MORTAL W, V69, P1641, DOI 10.15585/mmwr.mm6944e3
+NR 53
+TC 3
+Z9 3
+U1 2
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 2
+PY 2022
+VL 17
+IS 2
+AR e0261350
+DI 10.1371/journal.pone.0261350
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 0D3HO
+UT WOS:000775890100009
+PM 35108277
+OA gold, Green Published
+DA 2022-05-16
+ER
+
+EF

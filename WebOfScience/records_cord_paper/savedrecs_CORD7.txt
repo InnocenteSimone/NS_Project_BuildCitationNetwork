@@ -1,0 +1,153 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lefebvre, M
+   Vignier, N
+   Pitard, B
+   Botelho-Nevers, E
+   Wyplosz, B
+   Cohen, R
+   Epaulard, O
+AF Lefebvre, M.
+   Vignier, N.
+   Pitard, B.
+   Botelho-Nevers, E.
+   Wyplosz, B.
+   Cohen, R.
+   Epaulard, O.
+CA SPILF Vaccination Prevention Grp
+TI COVID-19 vaccines: Frequently asked questions and updated answers
+SO INFECTIOUS DISEASES NOW
+LA English
+DT Review
+AB At the end of December 2019, China notified the World Health Organization about a viral pneumonia epidemic soon to be named COVID-19, of which the infectious agent, SARS-CoV-2, was rapidly identified. Less than one year later, published phase 3 clinical trials underlined the effectiveness of vaccines utilizing hitherto unusual technology consisting in injection of the messenger RNA (m-RNA) of a viral protein. In the meantime, numerous clinical trials had failed to identify a maximally effective antiviral treatment, and mass vaccination came to be considered as the strategy most likely to put an end to the pandemic. The objective of this text is to address and hopefully answer the questions being put forward by healthcare professionals on the different anti-SARS-CoV-2 vaccines as regards their development, their modes of action, their effectiveness, their limits, and their utilization in different situations; we are proposing a report on both today's state of knowledge, and the 14 February 2021 recommendations of the French health authorities.
+C1 [Lefebvre, M.] Univ Hotel Dieu, Ctr Hosp, Ctr Prevent Malad Infect & Transmissibles, Serv Malad Infect & Trop,Inserm CIC1413, 1 Pl Alexis Ricordeau, F-44000 Nantes, France.
+   [Vignier, N.] Ctr Hosp Andree Rosemon, Ctr Invest Clin Antilles Guyane, CIC Inserm 1424, DRISP, Cayenne, French Guiana.
+   [Vignier, N.] Sorbonne Univ, INSERM, IPLESP, Inst Pierre Louis Epidemiol & Sante Publ, F-75012 Paris, France.
+   [Pitard, B.] Univ Nantes, CNRS ERL6001, Inserm 1232, CRCINA, Nantes, France.
+   [Botelho-Nevers, E.] Univ St Etienne, Ctr Hosp, Serv Infectiol, CIC 1408 Inserm, F-42055 St Etienne, France.
+   [Botelho-Nevers, E.] Univ Claude Bernard Lyon 1, Ctr Int Rech Infectiol CIRI, Univ Jean Monnet, Univ Lyon,Team GIMAP,INSERM U1111,CNRS,UMR530, F-42023 St Etienne, France.
+   [Cohen, R.] Ctr Hosp Intercommunal Creteil, Serv Pediat, InfoVac, 40 Ave Verdun, F-94000 Creteil, France.
+   [Epaulard, O.] Univ Grenoble Alpes, Ctr Hosp, Serv Malad Infect, Grenoble, France.
+   [Epaulard, O.] CIC 1406 Inserm, Grenoble, France.
+   [Vignier, N.] Grp Hosp Sud Ile De France, Dept Infect Dis, F-77000 Melun, France.
+   [Wyplosz, B.] Ctr Hosp Univ Bicetre, AP HP, Serv Malad Infect & Trop, Paris, France.
+RP Lefebvre, M (corresponding author), Univ Hotel Dieu, Ctr Hosp, Ctr Prevent Malad Infect & Transmissibles, Serv Malad Infect & Trop,Inserm CIC1413, 1 Pl Alexis Ricordeau, F-44000 Nantes, France.
+EM naeva.lefebvre@chu-nantes.fr
+RI Cohen, Robert/AAM-4426-2021; Vignier, Nicolas/AAH-8382-2021; Epaulard,
+   Olivier/AHD-4798-2022
+OI Cohen, Robert/0000-0001-6151-0686; Vignier, Nicolas/0000-0002-9410-9327;
+   
+CR Abu Jabal K, 2021, IMPACT ETHNICITY SEX
+   Agence Nationale de Securite du Medicament et des Produits de Sante (ANSM) Agence Nationale de Securite du Medicament et des Produits de Sante (ANSM), 2021, POINT SIT SURV VACC
+   Agence nationale de securite du medicament et des produits de sante (ANSM) Agence nationale de securite du medicament et des produits de sante (ANSM) Agence nationale de securite du medicament et des produits de sante (ANSM) Agence nationale de securite du medicament et des produits de sante (ANSM), 2021, AV ANSM CONC 2 DOS V
+   Aley PK, 2021, SAFETY EFFICACY CHAD, V397, P99
+   American College of Obstetricians and Gynecologists (ACOG), 2020, VACC PREGN LACT PAT
+   Anderson EJ, 2020, NEW ENGL J MED, V383, P2427, DOI 10.1056/NEJMoa2028436
+   Bhosle SM, 2018, BIOMATERIALS, V1
+   Bhosle SM, 2011, NUCLEIC ACIDS RES, V39, P1595
+   Blanchard EL, 2019, MOL THER-NUCL ACIDS, V14, P52, DOI 10.1016/j.omtn.2018.11.002
+   Breathnach AS, 2021, J INFECTION, V82, pE11, DOI 10.1016/j.jinf.2021.01.005
+   CDC, 2021, INT CLIN CONS US MRN
+   CDC,, 2021, VACC CONS PEOPL WHO
+   Centre de Reference sur les Agents Teratogenes (CRAT) Centre de Reference sur les Agents Teratogenes (CRAT), 2021, CACC ARNM COV 19 GRO
+   Chodick G., 2021, EFFECTIVENESS 1 DOSE, DOI [10.1101/2021.01.27.21250612, DOI 10.1101/2021.01.27.21250612]
+   Claro I.M., 2021, GENOMIC CHARACTERISA
+   Corbett KS, 2020, NEW ENGL J MED, V383, P1544, DOI 10.1056/NEJMoa2024671
+   Dan JM, 2021, SCIENCE, V371, P587, DOI 10.1126/science.abf4063
+   De Befardinrs P, 2020, FRONT IMMUNOL, P21
+   Du L., 2020, INFECT DIS THER, V9, P1
+   Ebrallifill M, 2019, DAIRY VET SCI J, V11
+   Essink, 2021, NEW ENGL J MED, V184, P401
+   EVANS DIK, 1990, BRIT MED J, V300, P1694, DOI 10.1136/bmj.300.6741.1694-a
+   Fang Wang, 2019, JCI INSIGHT, V1, pE123
+   Folegatti PM, 2020, LANCET, V396, P467, DOI 10.1016/S0140-6736(20)31604-4
+   Fontanet A, 2020, NAT REV IMMUNOL, V20, P583, DOI 10.1038/s41577-020-00451-5
+   Giegoio E, 2021, P NATL ACAD SCI USA, V1
+   Halstead SR, ANTIBODY DEPENDENT E
+   Hanrath AT, 2020, J INFECT, DOI [10.1016/ijin12020.12.023, DOI 10.1016/IJIN12020.12.023]
+   Haute Autorite de sante (HAS) Haute Autorite de sante (HAS), 2020, STRATEGIC VACCINATIO
+   Haute Autorite de sante (HAS) Haute Autorite de sante (HAS), 2021, STRAT VACC SARS COV
+   Haute Autorite de sante (HAS) Haute Autorite de sante (HAS) Haute Autorite de sante (HAS) Haute Autorite de sante (HAS), 2021, MOD SCHEM VACC SARS
+   Herzog C, 2014, EXPERT REV VACCINES, V13, P399, DOI 10.1586/14760584.2014.883285
+   Institut national du cancer (InCA), 2021, PREC PRIOR PAT ATT C
+   Jackson LA, 2020, NEW ENGL J MED, V383, P1920, DOI 10.1056/NEJMoa2022483
+   Johnson WE, 2015, REV VIROL, V2
+   Krammer F., 2021, ROBUST SPIKE ANTIBOD, DOI [10.1101/2021.01.29.21250653, DOI 10.1101/2021.01.29.21250653]
+   ladlock TA, ETIOK GY DR RGNOSFS, VI, P93
+   LauElIsangHuiKwanChanChiu, 2021, NAT COMMUN, V12, P6
+   Lemarchand M, 2020, IND PHARM
+   Lemarchand M, 2021, IND PHARM
+   Logunov DY, 2021, LANCET, V397, P671, DOI 10.1016/S0140-6736(21)00234-8
+   Logunov DY, 2020, LANCET, V396, P887, DOI 10.1016/S0140-6736(20)31866-3
+   Long Quan-Xin, 2020, Nature Medicine, V26, DOI 10.1038/s41591-020-0965-6
+   Longini Pet OV, AD HOCEXPEII GUMP NE
+   Lumley SF, 2021, NEW ENGL J MED, V384, P533, DOI 10.1056/NEJMoa2034545
+   Ma ttachatsa S, 2010, J ADV PHARM TECHNOL, V1, P11
+   Mahase E, 2021, BMJ-BRIT MED J, V372, DOI 10.1136/bmj.n124
+   MARTINON F, 1993, EUR J IMMUNOL, V23, P1719, DOI 10.1002/eji.1830230749
+   Martiny A-kin BD, 1993, EURJ IMMUNOL VACCINE, V21, P19
+   Medicines and Healthcare Products Regulatory Agency Medicines and Healthcare Products Regulatory Agency, 2020, U ASTRAZENECA COV 19
+   Ministere des Solidarites et de la Sante Ministere des Solidarites et de la Sante Ministere des Solidarites et de la Sante Ministere des Solidarites et de la Sante, 2021, INT OL VER DEL VACC
+   Msomi N., 2020, MEDRXIV, DOI 10.1101/2020.12.21.20248640
+   Muik A, 2021, SCIENCE, V371, P1152, DOI 10.1126/science.abg6105
+   Mulligan MJ, 2020, NATURE, V586, P589, DOI 10.1038/s41586-020-2639-4
+   Munn I, TRENDS BIOTECHNOL, V2, P94
+   Nokleby H, 2006, CURR ALLERGY ASTHM R, V6, P9, DOI 10.1007/s11882-006-0003-x
+   Pauli N, NIT REV DRUG LISCOV, V17, P261
+   Planning VII, 2020, VACCINES VACCINE, V18, P6191
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Poletto, 2020, EVALUATION STRATEGIE
+   Qiu Y, 2010, SCAND J IMMUNOL, V72, P425, DOI 10.1111/j.1365-3083.2010.02456.x
+   Rambaut A., 2020, BIORXIV, DOI [DOI 10.1101/2020.04.17.046086, 10.1101/2020.04.17.046086]
+   ridhar ti, N ENGL MED
+   RiN P, 2017, J ALLERGY CLIN IMMUN, V16, P811
+   Saadat S, 2021, JAMA-J AM MED ASSOC, V325, P1467, DOI 10.1001/jama.2021.3341
+   Sabino EC, 2021, LANCET, V397, P452, DOI 10.1016/S0140-6736(21)00183-5
+   Shimabukuro TT, 2021, JAMA-J AM MED ASSOC, V325, P1101, DOI 10.1001/jama.2021.1967
+   Societe francaise d'allergologie (SFA) Societe francaise d'allergologie (SFA), 2021, VACC COVID 19
+   Societe francaise de rhumatologie (SFR) Societe francaise de rhumatologie (SFR) Societe francaise de rhumatologie (SFR) Societe francaise de rhumatologie (SFR), 2021, VACC COVID 19 PAT AT
+   SoniatChook MYM, 2015, BIOCHEMISTRY-US
+   van Doremalen N, 2020, NATURE, V586, P578, DOI 10.1038/s41586-020-2608-y
+   van Riel D, 2020, NAT MATER, V19, P810, DOI 10.1038/s41563-020-0746-0
+   Vogel AB., 2020, BIORXIV, DOI 10.1101/2020.09.08.280818.
+   Voysey M, 2021, SINGLE DOSE ADM INFL
+   Walsh EE, 2020, NEW ENGL J MED, V383, P2439, DOI 10.1056/NEJMoa2027906
+   Wang Zijun, 2021, Nature, V592, P616, DOI [10.1101/2021.01.15.426911, 10.1038/s41586-021-03324-6]
+   Widge AT, 2021, NEW ENGL J MED, V384, P80, DOI 10.1056/NEJMc2032195
+   Woolsey C, 2021, NAT IMMUNOL, V22, P86, DOI 10.1038/s41590-020-00835-8
+   World Health Organization, 2021, DRAFT LANDSC TRACK C
+   World Health Organization (WHO) World Health Organization (WHO), 2021, BNT162B2 WHO
+   Wu K, 2021, MRNA 1273 CACCINE IN, DOI 10,1101/2021,01.25.427948
+NR 81
+TC 4
+Z9 4
+U1 0
+U2 9
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 2666-9927
+EI 2666-9919
+J9 INFECT DIS NOW
+JI Infect. Dis. Now
+PD JUN
+PY 2021
+VL 51
+IS 4
+BP 319
+EP 333
+DI 10.1016/j.idnow.2021.02.007
+EA MAY 2021
+PG 15
+WC Infectious Diseases
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Infectious Diseases
+GA SE2AB
+UT WOS:000651874700001
+PM 33681861
+OA Bronze, Green Published
+DA 2022-05-16
+ER
+
+EF

@@ -1,0 +1,125 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sznajder, KK
+   Kjerulff, KH
+   Wang, M
+   Hwang, W
+   Ramirez, SI
+   Gandhi, CK
+AF Sznajder, Kristin K.
+   Kjerulff, Kristen H.
+   Wang, Ming
+   Hwang, Wenke
+   Ramirez, Sarah, I
+   Gandhi, Chintan K.
+TI Covid-19 vaccine acceptance and associated factors among pregnant women
+   in Pennsylvania 2020
+SO PREVENTIVE MEDICINE REPORTS
+LA English
+DT Article
+DE COVID-19; SARS-CoV-2; Immunization during pregnancy; Vaccine-preventable
+   diseases; Pennsylvania; Pregnant Women; Vaccination
+ID UNITED-STATES; IMMUNIZATION PRACTICES; INFLUENZA VACCINATION;
+   ADVISORY-COMMITTEE; DETERMINANTS; PERTUSSIS; FEVER; TRUST; RISK
+AB Data on factors associated with vaccine acceptance among pregnant women are critical to the rapid scale up of interventions to improve vaccine uptake. When COVID-19 vaccines were still in the testing phases of research, we surveyed pregnant women accessing prenatal care at an academic medical institution in Central Pennsylvania, United States to examine factors associated with vaccine acceptance. Willingness to receive a COVID-19 vaccine once a vaccine became available was asked as part of an ongoing study on the COVID-19 pandemic and pregnancy (n = 196). Overall, 65% of women reported they would be willing or somewhat willing to receive the COVID-19 vaccine. Women who had received an influenza vaccine within the past year were more likely to be willing to receive the COVID-19 vaccine than women who had never received an influenza vaccine or those who received it over one year ago (aOR 4.82; 95% CI 2.17, 10.72). Similarly, women who were employed full-time were more willing to receive the COVID-19 vaccine than women who were not employed full time (aOR 2.22; 95% CI 1.02, 4.81), and women who reported feeling overloaded were more willing to receive the COVID-19 vaccine than women who did not feel overloaded (aOR 2.18; 95% CI 1.02, 4.68). Our findings support the need to increase vaccination education among pregnant women before vaccines are rolled out, especially those who have not received an influenza vaccine within the past year. Improved understanding of willingness to vaccinate among pregnant women will improve future pandemic responses and current vaccination efforts.
+C1 [Sznajder, Kristin K.; Kjerulff, Kristen H.; Wang, Ming; Hwang, Wenke] Penn State Univ, Dept Publ Hlth Sci, Coll Med, 90 Hope Dr, Hershey, PA 17033 USA.
+   [Ramirez, Sarah, I] Penn State Univ, Dept Family & Community Med, Coll Med, Hershey, PA 17033 USA.
+   [Gandhi, Chintan K.] Penn State Univ, Dept Pediat, Coll Med, Hershey, PA 17033 USA.
+RP Sznajder, KK (corresponding author), Penn State Univ, Dept Publ Hlth Sci, Coll Med, 90 Hope Dr, Hershey, PA 17033 USA.
+EM kek157@psu.edu
+OI Gandhi, Chintan/0000-0002-3328-7074
+FU Pennsylvania State University Huck Institute of Life Sciences [7754]
+FX Acknowledgements Our study was funded by the Pennsylvania State
+   University Huck Institute of Life Sciences #7754. We thank the study
+   participants for their time.
+CR Ahlers-Schmidt CR, 2020, PATIENT EDUC COUNS, V103, P2578, DOI 10.1016/j.pec.2020.09.031
+   Al-Mohaithef M, 2020, J MULTIDISCIP HEALTH, V13, P1657, DOI 10.2147/JMDH.S276771
+   Albrecht M, 2020, FRONT IMMUNOL, V11, DOI 10.3389/fimmu.2020.00555
+   [Anonymous], 2020, LANCET, V395, P922, DOI 10.1016/S0140-6736(20)30644-9
+   Bodeker B, 2014, VACCINE, V32, P4131, DOI 10.1016/j.vaccine.2014.06.007
+   Calina D, 2020, INT J MOL MED, V46, P3, DOI 10.3892/ijmm.2020.4596
+   Centers for Disease Control and Prevention, 2021, COVID 19 VACC PREGN
+   Centers for Disease Control and Prevention, 2021, VACC CONS PEOPL WHO
+   Centers for Disease Control and Prevention, COVID 19 VACC US
+   Ceulemans M, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18073367
+   Christie A, 2021, MMWR-MORBID MORTAL W, V70, P858, DOI [10.15585/mmwr.mm7023e2, 10.15585/mmwr.mm7023e2externalicon]
+   Corace K, 2013, AM J INFECT CONTROL, V41, P679, DOI 10.1016/j.ajic.2013.01.014
+   Da Costa D, 1999, J PSYCHOSOM RES, V47, P609, DOI 10.1016/S0022-3999(99)00064-1
+   Do TVC, 2021, CUREUS J MED SCIENCE, V13, DOI 10.7759/cureus.16842
+   Doroftei B, 2021, DIAGNOSTICS, V11, DOI 10.3390/diagnostics11040579
+   Ellington S, 2020, MMWR-MORBID MORTAL W, V69, P769, DOI 10.15585/mmwr.mm6925a1externalicon
+   Fridman A, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0250123
+   Fridman D, 2011, AM J OBSTET GYNECOL, V204, pS124, DOI 10.1016/j.ajog.2011.04.011
+   Fu C., 2020, ACCEPTANCE PREFERENC, DOI [10.1101/2020.04.09.20060103, DOI 10.1101/2020.04.09.20060103]
+   Gandhi CK, 2020, AM J INFECT CONTROL, V48, P361, DOI 10.1016/j.ajic.2020.01.010
+   Ghiasi N, 2021, IMMUNOPATHOL PERSA, V7, DOI 10.34172/ipp.2021.31
+   Gustavson K, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-45920-7
+   Halpin Carmel, 2019, Nurs Older People, V31, P32, DOI 10.7748/nop.2019.e1154
+   Hamel L., 2020, KFF COVID 19 VACCINE
+   Jamison AM, 2019, SOC SCI MED, V221, P87, DOI 10.1016/j.socscimed.2018.12.020
+   Jean-Jacques M, 2021, JAMA-J AM MED ASSOC, V325, P829, DOI 10.1001/jama.2021.1205
+   Jung M, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0200333
+   Kadali R.A.K., AM J OBSTET GYNECOL
+   Kaiser Family Foundation, COVID 19 COR TRACK U
+   Karafillakis E, 2021, VACCINE, V39, P4117, DOI 10.1016/j.vaccine.2021.05.096
+   Kerr SM, 2017, ANN EPIDEMIOL, V27, P777, DOI 10.1016/j.annepidem.2017.10.010
+   Khubchandani J, 2021, J COMMUN HEALTH, V46, P270, DOI 10.1007/s10900-020-00958-x
+   Kjerulff KH, 2013, PAEDIATR PERINAT EP, V27, P62, DOI 10.1111/ppe.12014
+   Laurence Brian, 2012, J Evid Based Dent Pract, V12, P32, DOI 10.1016/S1532-3382(12)70008-8
+   Lean SC, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0186287
+   Machida M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9030210
+   MacNeil JR, 2021, MMWR-MORBID MORTAL W, V70, P651, DOI 10.15585/mmwr.mm7017e4
+   Mohammed H, 2020, VACCINE, V38, P3358, DOI 10.1016/j.vaccine.2020.02.020
+   Murphy J, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-020-20226-9
+   Oliver SE, 2020, MMWR-MORBID MORTAL W, V69, P1922, DOI 10.15585/mmwr.mm6950e2
+   Organization W.H., 2021, BACKGR DOC IN VACC S
+   Pennsylvania Department of Health, 2019, BIRTH STAT
+   Pilishvili T, 2021, NEW ENGL J MED, V385, DOI 10.1056/NEJMoa2106599
+   Power K., 2020, Sustainability: Science, Practice & Policy, V17, P67, DOI 10.1080/15487733.2020.1776561
+   Preis H, 2020, SOC SCI MED, V266, DOI 10.1016/j.socscimed.2020.113348
+   Rasmussen SA, 2021, OBSTET GYNECOL, V137, P408, DOI 10.1097/AOG.0000000000004290
+   Razai M.S., 2021, COVID 19 VACCINE HES
+   Razzaghi H, 2021, MMWR-MORBID MORTAL W, V70, P895, DOI [10.1101/2021.03.26.21254402v1, 10.15585/mmwr.mm7024e2]
+   Sadoff J, 2021, NEW ENGL J MED, V384, P2187, DOI 10.1056/NEJMoa2101544
+   Sallam M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9020160
+   Sarwal Y, 2021, INT J GYNECOL OBSTET, V155, P57, DOI 10.1002/ijgo.13816
+   Shimabukuro TT, 2021, NEW ENGL J MED, V384, P2273, DOI 10.1056/NEJMoa2104983
+   Skjefte M, 2021, EUR J EPIDEMIOL, V36, P197, DOI 10.1007/s10654-021-00728-6
+   Stoddard J., 2021, CORONAVIRUS IMPACT S
+   Thomason M.E., 2020, COPE CORONAVIRUS PER
+   Tran VD, 2021, PHARM PRACT-GRANADA, V19, DOI [10.18549/PharmPract.2021.1.2276, 10.18549/pharmpract.2021.1.2276]
+   Verger P, 2020, EXPERT REV VACCINES, V19, P991, DOI 10.1080/14760584.2020.1825945
+   Villar J, 2021, JAMA PEDIATR, V175, P817, DOI 10.1001/jamapediatrics.2021.1050
+   Waller DK, 2018, BIRTH DEFECTS RES, V110, P342, DOI 10.1002/bdr2.1147
+   Hooper MW, 2021, J GEN INTERN MED, V36, P2130, DOI 10.1007/s11606-021-06698-5
+   Wilder-Smith A, 2020, J TRAVEL MED, V27, DOI 10.1093/jtm/taaa020
+   Xu Z, 2019, J COMPUT SOC SCI, V2, P207, DOI 10.1007/s42001-019-00044-w
+NR 62
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+EI 2211-3355
+J9 PREV MED REP
+JI Prev. Med. Rep.
+PD APR
+PY 2022
+VL 26
+AR 101713
+DI 10.1016/j.pmedr.2022.101713
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 0U4PU
+UT WOS:000787634200031
+PM 35127367
+OA gold, Green Published
+DA 2022-05-16
+ER
+
+EF

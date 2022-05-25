@@ -1,0 +1,86 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Crommelin, DJA
+   Volkin, DB
+   Hoogendoorn, KH
+   Lubiniecki, AS
+   Jiskoot, W
+AF Crommelin, Daan J. A.
+   Volkin, David B.
+   Hoogendoorn, Karin H.
+   Lubiniecki, Anthony S.
+   Jiskoot, Wim
+TI The Science is There: Key Considerations for Stabilizing Viral
+   Vector-Based Covid-19 Vaccines
+SO JOURNAL OF PHARMACEUTICAL SCIENCES
+LA English
+DT Editorial Material
+DE Covid-19; Formulation; Freeze drying; Live attenuated virus; Shelf life;
+   Stability; Storage; Vaccine; Viral vector
+ID LIQUID FORMULATIONS; COLD CHAIN; LIVE; MEASLES; INFECTIVITY
+AB Once Covid-19 vaccines become available, 5-10 billion vaccine doses should be globally distributed, stored and administered. In this commentary, we discuss how this enormous challenge could be addressed for viral vector-based Covid-19 vaccines by learning from the wealth of formulation development experience gained over the years on stability issues related to live attenuated virus vaccines and viral vector vaccines for other diseases. This experience has led -over time- to major improvements on storage temperature, shelf-life and in-use stability requirements. First, we will cover work on 'classical' live attenuated virus vaccines as well as replication competent viral vector vaccines. Subsequently, we address replication deficient viral vector vaccines. Freeze drying and storage at 2-8 degrees C with a shelf life of years has become the norm. In the case of pandemics with incredibly high and urgent product demands, however, the desire for rapid and convenient distribution chains combined with short end-user storage times require that liquid formulations with shelf lives of months stored at 2-8 degrees C be considered. In confronting this "perfect storm" of Covid-19 vaccine stability challenges, understanding the many lessons learned from decades of development and manufacturing of live virus-based vaccines is the shortest path for finding promising and rapid solutions. (c) 2020 American Pharmacists Association (R). Published by Elsevier Inc. All rights reserved.
+C1 [Crommelin, Daan J. A.] Univ Utrecht, Dept Pharmaceut, Fac Sci, Utrecht, Netherlands.
+   [Volkin, David B.] Univ Kansas, Dept Pharmaceut Chem, Vaccine Analyt & Formulat Ctr, Lawrence, KS 66045 USA.
+   [Hoogendoorn, Karin H.] Lonza BV, Preclin Serv Cell & Gene Therapy, Maastricht, Netherlands.
+   [Lubiniecki, Anthony S.] AL Associates LLC, W Chester, PA USA.
+   [Jiskoot, Wim] Leiden Univ, Leiden Acad Ctr Drug Res, Div BioTherapeut, Einsteinweg 55, NL-2333 CC Leiden, Netherlands.
+RP Jiskoot, W (corresponding author), Leiden Univ, Leiden Acad Ctr Drug Res, Div BioTherapeut, Einsteinweg 55, NL-2333 CC Leiden, Netherlands.
+EM w.jiskoot@lacdr.leidenuniv.nl
+RI Jiskoot, Wim/A-6877-2016
+OI Jiskoot, Wim/0000-0002-1012-3456
+CR Burke CJ, 1999, CRIT REV THER DRUG, V16, P1
+   Burke RM, 2019, CURR OPIN INFECT DIS, V32, P435, DOI 10.1097/QCO.0000000000000572
+   Evans RK, 2004, J PHARM SCI-US, V93, P2458, DOI 10.1002/jps.20157
+   Fedosyuk S, 2019, VACCINE, V37, P6951, DOI 10.1016/j.vaccine.2019.04.056
+   FERRIS NP, 1990, J VIROL METHODS, V29, P43, DOI 10.1016/0166-0934(90)90006-2
+   Gray GC, 2018, PLOTKINS VACCINES
+   Hansen LJJ, 2015, VACCINE, V33, P5507, DOI 10.1016/j.vaccine.2015.08.085
+   Juan-Giner A, 2020, VACCINE, V38, P2473, DOI 10.1016/j.vaccine.2020.02.005
+   Kang MS, 2010, POULTRY SCI, V89, P1167, DOI 10.3382/ps.2009-00620
+   Kumru OS, 2018, J PHARM SCI-US, V107, P2764, DOI 10.1016/j.xphs.2018.07.010
+   Kumru OS, 2014, BIOLOGICALS, V42, P237, DOI 10.1016/j.biologicals.2014.05.007
+   Lovalenti PM, 2016, PHARM RES-DORDR, V33, P1144, DOI 10.1007/s11095-016-1860-1
+   Naik SP, 2017, VACCINE, V35, P2962, DOI 10.1016/j.vaccine.2017.04.025
+   Patel A, 2018, VACCINE, V36, P3169, DOI 10.1016/j.vaccine.2017.04.086
+   Prausnitz MR, 2020, CURR OPIN VIROL, V41, P68, DOI 10.1016/j.coviro.2020.05.005
+   Reinauer EB, 2020, J PHARM SCI-US, V109, P818, DOI 10.1016/j.xphs.2019.10.063
+   Schlehuber LD, 2011, VACCINE, V29, P5031, DOI 10.1016/j.vaccine.2011.04.079
+   Shokri S, 2019, J VIROL METHODS, V264, P18, DOI 10.1016/j.jviromet.2018.08.013
+   SOOD DK, 1993, VACCINE, V11, P1124, DOI 10.1016/0264-410X(93)90073-7
+   Tlaxca JL, 2015, ADV DRUG DELIVER REV, V93, P56, DOI 10.1016/j.addr.2014.10.002
+   Zhai SL, 2004, BIOTECHNOL PROGR, V20, P1113, DOI 10.1021/bp034362x
+   Zhu FC, 2020, LANCET, V395, P1845, DOI 10.1016/S0140-6736(20)31208-3
+NR 22
+TC 13
+Z9 13
+U1 4
+U2 13
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-3549
+EI 1520-6017
+J9 J PHARM SCI-US
+JI J. Pharm. Sci.
+PD FEB
+PY 2021
+VL 110
+IS 2
+BP 627
+EP 634
+DI 10.1016/j.xphs.2020.11.015
+EA JAN 2021
+PG 8
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Chemistry
+GA PS7SV
+UT WOS:000608126900010
+PM 33242452
+OA Green Published, Bronze
+DA 2022-05-16
+ER
+
+EF

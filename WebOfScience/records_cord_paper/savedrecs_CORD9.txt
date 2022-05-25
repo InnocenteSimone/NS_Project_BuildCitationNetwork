@@ -1,0 +1,239 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bin Lee, ARY
+   Wong, SY
+   Chai, LYA
+   Lee, SC
+   Lee, MX
+   Muthiah, MD
+   Tay, SH
+   Teo, CB
+   Tan, BKJ
+   Chan, YH
+   Sundar, R
+   Soon, YY
+AF Bin Lee, Ainsley Ryan Yan
+   Wong, Shi Yin
+   Chai, Louis Yi Ann
+   Lee, Soo Chin
+   Lee, Matilda Xinwei
+   Muthiah, Mark Dhinesh
+   Tay, Sen Hee
+   Teo, Chong Boon
+   Tan, Benjamin Kye Jyn
+   Chan, Yiong Huak
+   Sundar, Raghav
+   Soon, Yu Yang
+TI Efficacy of covid-19 vaccines in immunocompromised patients: systematic
+   review and meta-analysis
+SO BMJ-BRITISH MEDICAL JOURNAL
+LA English
+DT Review
+ID RENAL-TRANSPLANT RECIPIENTS; MESSENGER-RNA VACCINE; INFLUENZA
+   VACCINATION; SARS-COV-2 VACCINATION; BNT162B2 VACCINATION; HUMORAL
+   RESPONSE; PUBLICATION BIAS; IMMUNE-RESPONSE; ANTIBODY; HIV
+AB OBJECTIVE
+   To compare the efficacy of covid-19 vaccines between immunocompromised and immunocompetent people.
+   DESIGN
+   Systematic review and meta-analysis.
+   DATA SOURCES
+   PubMed, Embase, Central Register of Controlled Trials, COVID-19 Open Research Dataset Challenge (CORD-19), and WHO covid-19 databases for studies published between 1 December 2020 and 5 November 2021. ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform were searched in November 2021 to identify registered but as yet unpublished or ongoing studies.
+   STUDY SELECTION
+   Prospective observational studies comparing the efficacy of covid-19 vaccination in immunocompromised and immunocompetent participants.
+   METHODS
+   A frequentist random effects meta-analysis was used to separately pool relative and absolute risks of seroconversion after the first and second doses of a covid-19 vaccine. Systematic review without meta-analysis of SARS-CoV-2 antibody titre levels was performed after first, second, and third vaccine doses and the seroconversion rate after a third dose. Risk of bias and certainty of evidence were assessed.
+   RESULTS
+   82 studies were included in the meta-analysis. Of these studies, 77 (94%) used mRNA vaccines, 16 (20%) viral vector vaccines, and 4 (5%) inactivated whole virus vaccines. 63 studies were assessed to be at low risk of bias and 19 at moderate risk of bias. After one vaccine dose, seroconversion was about half as likely in patients with haematological cancers (risk ratio 0.40, 95% confidence interval 0.32 to 0.50, I-2=80%; absolute risk 0.29, 95% confidence interval 0.20 to 0.40, I-2=89%), immune mediated inflammatory disorders (0.53, 0.39 to 0.71, I-2=89%; 0.29, 0.11 to 0.58, I-2=97%), and solid cancers (0.55, 0.46 to 0.65, I-2=78%; 0.44, 0.36 to 0.53, I-2=84%) compared with immunocompetent controls, whereas organ transplant recipients were 16 times less likely to seroconvert (0.06, 0.04 to 0.09, I-2=0%; 0.06, 0.04 to 0.08, I-2=0%). After a second dose, seroconversion remained least likely in transplant recipients (0.39, 0.32 to 0.46, I-2=92%; 0.35, 0.26 to 0.46), with only a third achieving seroconversion. Seroconversion was increasingly likely in patients with haematological cancers (0.63, 0.57 to 0.69, I-2=88%; 0.62, 0.54 to 0.70, I-2=90%), immune mediated inflammatory disorders (0.75, 0.69 to 0.82, I-2=92%; 0.77, 0.66 to 0.85, I-2=93%), and solid cancers (0.90, 0.88 to 0.93, I-2=51%; 0.89, 0.86 to 0.91, I-2=49%). Seroconversion was similar between people with HIV and immunocompetent controls (1.00, 0.98 to 1.01, I-2=0%; 0.97, 0.83 to 1.00, I-2=89%). Systematic review of 11 studies showed that a third dose of a covid-19 mRNA vaccine was associated with seroconversion among vaccine non-responders with solid cancers, haematological cancers, and immune mediated inflammatory disorders, although response was variable in transplant recipients and inadequately studied in people with HIV and those receiving nonmRNA vaccines.
+   CONCLUSION
+   Seroconversion rates after covid-19 vaccination were significantly lower in immunocompromised patients, especially organ transplant recipients. A second dose was associated with consistently improved seroconversion across all patient groups, albeit at a lower magnitude for organ transplant recipients. Targeted interventions for immunocompromised patients, including a third (booster) dose, should be performed.
+C1 [Bin Lee, Ainsley Ryan Yan; Wong, Shi Yin; Teo, Chong Boon; Tan, Benjamin Kye Jyn] Natl Univ Singapore, Yong Loo Lin Sch Med, Singapore, Singapore.
+   [Chai, Louis Yi Ann] Natl Univ Hlth Syst, Div Infect Dis, Singapore, Singapore.
+   [Chai, Louis Yi Ann; Sundar, Raghav; Soon, Yu Yang] Natl Univ Singapore, Dept Med, Yong Loo Lin Sch Med, Singapore, Singapore.
+   [Chai, Louis Yi Ann] Natl Univ Singapore, Synthet Biol Clin & Technol Innovat, Singapore, Singapore.
+   [Chai, Louis Yi Ann] Natl Univ Canc Inst, Singapore, Singapore.
+   [Lee, Soo Chin; Lee, Matilda Xinwei; Sundar, Raghav] Natl Univ Singapore Hosp, Natl Univ Canc Inst, Dept Haematol Oncol, Singapore 119228, Singapore.
+   [Lee, Soo Chin] Natl Univ Singapore, Canc Sci Inst Singapore, Singapore, Singapore.
+   [Muthiah, Mark Dhinesh] Natl Univ Hlth Syst, Dept Gastroenterol & ITepatol, Singapore, Singapore.
+   [Muthiah, Mark Dhinesh] Natl Univ, Ctr Organ Transplantat, Singapore, Singapore.
+   [Tay, Sen Hee] Natl Univ Singapore Hosp, Dept Med, Div Rheumatol, Singapore, Singapore.
+   [Chan, Yiong Huak] Natl Univ Singapore, Yong Loo Lin Sch Med, Biostat Unit, Singapore, Singapore.
+   [Sundar, Raghav] Duke NUS Med Sch, Canc & Stem Cell Biol Program, Singapore, Singapore.
+   [Sundar, Raghav] Natl Univ Singapore, N1 Inst Hlth, Singapore, Singapore.
+   [Sundar, Raghav] Singapore Gastr Canc Consortium, Singapore, Singapore.
+   [Soon, Yu Yang] Natl Univ Canc Inst, Dept Radiat Oncol, Singapore, Singapore.
+RP Sundar, R (corresponding author), Natl Univ Singapore, Dept Med, Yong Loo Lin Sch Med, Singapore, Singapore.; Sundar, R (corresponding author), Natl Univ Singapore Hosp, Natl Univ Canc Inst, Dept Haematol Oncol, Singapore 119228, Singapore.; Sundar, R (corresponding author), Duke NUS Med Sch, Canc & Stem Cell Biol Program, Singapore, Singapore.; Sundar, R (corresponding author), Natl Univ Singapore, N1 Inst Hlth, Singapore, Singapore.; Sundar, R (corresponding author), Singapore Gastr Canc Consortium, Singapore, Singapore.
+EM mdcragh@nus.edu.sg
+OI Tan, Benjamin Kye Jyn/0000-0002-9411-6164
+CR Achiron A, 2021, J NEUROIMMUNOL, V361, DOI 10.1016/j.jneuroim.2021.577746
+   Achiron A, 2021, THER ADV NEUROL DISO, V14, DOI 10.1177/17562864211012835
+   Agbarya A, 2021, CANCERS, V13, DOI 10.3390/cancers13164191
+   Al Samaraee A, 2020, BRIT J HOSP MED, V81, DOI 10.12968/hmed.2020.0191
+   Ali A, 2021, VACCINE, V39, P6111, DOI 10.1016/j.vaccine.2021.08.078
+   Ali MAM, 2021, TRENDS CARDIOVAS MED, V31, P143, DOI 10.1016/j.tcm.2020.12.004
+   American Society of Transplantation International Society for Heart and Lung Transplantation, 2021, JOINT STAT VACC EFF
+   Anema A, 2008, HIV MED, V9, P57, DOI 10.1111/j.1468-1293.2008.00515.x
+   Apostolidis SA, 2021, NAT MED, V27, P1990, DOI 10.1038/s41591-021-01507-2
+   Barriere J, 2021, ANN ONCOL, V32, P1053, DOI 10.1016/j.annonc.2021.04.019
+   Beck CR, 2012, J INFECT DIS, V206, P1250, DOI 10.1093/infdis/jis487
+   Benotmane I, 2021, JAMA-J AM MED ASSOC, V326, P1063, DOI 10.1001/jama.2021.12339
+   Berlin DA, 2020, NEW ENGL J MED, V383, P2451, DOI 10.1056/NEJMcp2009575
+   Bertrand D, 2021, KIDNEY INT, V100, P1337, DOI 10.1016/j.kint.2021.09.014
+   Bitoun S, 2021, J HEMATOL ONCOL, V14, DOI 10.1186/s13045-021-01183-2
+   Boekel L, 2021, LANCET RHEUMATOL, V3, pE778, DOI 10.1016/S2665-9913(21)00222-8
+   Canti L, 2021, J HEMATOL ONCOL, V14, DOI 10.1186/s13045-021-01190-3
+   Catherine FX, 2017, HUM VACC IMMUNOTHER, V13, P1304, DOI 10.1080/21645515.2016.1277844
+   Centers for Disease Control and Prevention, COV 19 VACC MOD SEV
+   Chavarot N, 2021, AM J TRANSPLANT, V21, P4043, DOI 10.1111/ajt.16814
+   Chong PP, 2018, CLIN INFECT DIS, V66, P1802, DOI 10.1093/cid/cix1081
+   Chowdhury O, 2021, BRIT J HAEMATOL, V194, P1010, DOI 10.1111/bjh.17644
+   Couch Robert B., 1997, American Journal of Medicine, V102, P2, DOI 10.1016/S0002-9343(97)00003-X
+   Crespo M, 2022, AM J TRANSPLANT, V22, P786, DOI 10.1111/ajt.16854
+   Curtis JR, 2021, ARTHRITIS RHEUMATOL, V73, pE60, DOI 10.1002/art.41928
+   D'Offizi G, 2022, LIVER INT, V42, P180, DOI 10.1111/liv.15089
+   Danthu C, 2021, J AM SOC NEPHROL, V32, P2154, DOI 10.1681/ASN.2021040490
+   Debska-Slizien A, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9101165
+   Deepak P, 2021, ANN INTERN MED, V174, P1572, DOI 10.7326/M21-1757
+   Del Bello A, 2022, AM J TRANSPLANT, V22, P322, DOI 10.1111/ajt.16775
+   Di Noia V, 2021, CLIN CANCER RES, V27, P6815, DOI 10.1158/1078-0432.CCR-21-2439
+   Doria-Rose N, 2021, NEW ENGL J MED, V384, P2259, DOI 10.1056/NEJMc2103916
+   Duval S, 2000, BIOMETRICS, V56, P455, DOI 10.1111/j.0006-341X.2000.00455.x
+   Earle KA, 2021, VACCINE, V39, P4423, DOI 10.1016/j.vaccine.2021.05.063
+   Egger M, 1997, BMJ-BRIT MED J, V315, P629, DOI 10.1136/bmj.315.7109.629
+   Eliakim-Raz N, 2021, JAMA ONCOL, V7, P1716, DOI 10.1001/jamaoncol.2021.4390
+   Fan YJ, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9090989
+   Fathizadeh H, 2021, INT J BIOL MACROMOL, V188, P740, DOI 10.1016/j.ijbiomac.2021.08.076
+   Furer V, 2021, ANN RHEUM DIS, V80, P1330, DOI 10.1136/annrheumdis-2021-220647
+   Garcia-Beltran WF, 2021, CELL, V184, P476, DOI 10.1016/j.cell.2020.12.015
+   Gavriatopoulou M, 2021, BLOOD ADV, V5, P4398, DOI 10.1182/bloodadvances.2021005444
+   Gavriatopoulou M, 2021, CLIN EXP MED, DOI 10.1007/s10238-021-00746-4
+   Geisen UM, 2021, ANN RHEUM DIS, V80, P1306, DOI 10.1136/annrheumdis-2021-220272
+   Ghione P, 2021, BLOOD, V138, P811, DOI 10.1182/blood.2021012443
+   Goshen-Lago T, 2021, JAMA ONCOL, V7, P1507, DOI 10.1001/jamaoncol.2021.2675
+   Greenberger LM, 2021, CANCER CELL, V39, P1297, DOI 10.1016/j.ccell.2021.09.001
+   Grinshpun A, 2021, ESMO OPEN, V6, DOI 10.1016/j.esmoop.2021.100283
+   Grupper A, 2021, CLIN TRANSPLANT, V35, DOI 10.1111/ctr.14478
+   Grupper A, 2021, AM J TRANSPLANT, V21, P2719, DOI 10.1111/ajt.16615
+   Guyatt GH, 2008, BRIT MED J, V336, P924, DOI 10.1136/bmj.39489.470347.AD
+   Haberman RH, 2021, ANN RHEUM DIS, V80, P1339, DOI 10.1136/annrheumdis-2021-220597
+   Hagin D, 2021, J ALLERGY CLIN IMMUN, V148, P739, DOI 10.1016/j.jaci.2021.05.029
+   Hall VG, 2021, NEW ENGL J MED, V385, P1244, DOI 10.1056/NEJMc2111462
+   Herishanu Y, 2021, BLOOD, V137, P3165, DOI 10.1182/blood.2021011568
+   Tzarfati KH, 2021, AM J HEMATOL, V96, P1195, DOI 10.1002/ajh.26284
+   Higgins JPT, 2002, STAT MED, V21, P1539, DOI 10.1002/sim.1186
+   Hod T, 2021, TRANSPLANTATION, V105, pE234, DOI 10.1097/TP.0000000000003889
+   Iacono D, 2021, J GERIATR ONCOL, V12, P1253, DOI 10.1016/j.jgo.2021.06.002
+   Izmirly PM, 2022, ARTHRITIS RHEUMATOL, V74, P284, DOI 10.1002/art.41937
+   Jedicke N, 2022, HIV MED, V23, P558, DOI 10.1111/hiv.13202
+   Jin PF, 2021, SIGNAL TRANSDUCT TAR, V6, DOI 10.1038/s41392-021-00481-y
+   Kantauskaite M, 2022, AM J TRANSPLANT, V22, P634, DOI 10.1111/ajt.16851
+   Kennedy NA, 2021, GUT, V70, P1884, DOI 10.1136/gutjnl-2021-324789
+   Khoury DS, 2021, NAT MED, V27, P1205, DOI 10.1038/s41591-021-01377-8
+   Korth J, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13050756
+   Lee JH, 2020, VACCINE, V38, P3995, DOI 10.1016/j.vaccine.2020.04.022
+   Levy I, 2021, CLIN MICROBIOL INFEC, V27, P1851, DOI 10.1016/j.cmi.2021.07.031
+   Ligumsky H, 2022, JNCI-J NATL CANCER I, V114, P203, DOI 10.1093/jnci/djab174
+   Lim SH, 2021, LANCET HAEMATOL, V8, pE542, DOI 10.1016/S2352-3026(21)00199-X
+   Linardou H, 2021, CANCERS, V13, DOI 10.3390/cancers13184621
+   Lindemann M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9101075
+   Liontos M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9101148
+   Liontos M, 2022, PROSTATE CANCER P D, V25, P117, DOI 10.1038/s41391-021-00455-9
+   Livingston Edward H, 2021, JAMA, V325, P898, DOI 10.1001/jama.2021.1375
+   Madan A, 2020, CANCER MED-US, V9, P9205, DOI 10.1002/cam4.3534
+   Madhi SA, 2021, LANCET HIV, V8, pE568, DOI 10.1016/S2352-3018(21)00157-0
+   Mahil SK, 2021, LANCET RHEUMATOL, V3, pE627, DOI 10.1016/S2665-9913(21)00212-5
+   Malard F, 2021, BLOOD CANCER J, V11, DOI 10.1038/s41408-021-00534-z
+   Manuel O, 2019, CLIN TRANSPLANT, V33, DOI 10.1111/ctr.13511
+   Marasco V, 2022, BRIT J HAEMATOL, V196, P548, DOI 10.1111/bjh.17877
+   Marinaki S, 2021, AM J TRANSPLANT, V21, P2913, DOI 10.1111/ajt.16607
+   Massarweh A, 2021, JAMA ONCOL, V7, P1133, DOI 10.1001/jamaoncol.2021.2155
+   Mazzola A, 2022, CLIN INFECT DIS, V74, P1093, DOI 10.1093/cid/ciab580
+   McInnes IB, 2021, NAT REV IMMUNOL, V21, P680, DOI 10.1038/s41577-021-00603-1
+   Medeiros-Ribeiro AC, 2021, NAT MED, V27, P1744, DOI 10.1038/s41591-021-01469-5
+   Miele M, 2021, AM J TRANSPLANT, V21, P2919, DOI 10.1111/ajt.16702
+   Mohammed AH, 2020, AIDS REV, V22, P151, DOI 10.24875/AIDSRev.20000052
+   Monin L, 2021, LANCET ONCOL, V22, P765, DOI 10.1016/S1470-2045(21)00213-8
+   Mrak D, 2021, ANN RHEUM DIS, V80, P1345, DOI 10.1136/annrheumdis-2021-220781
+   Narasimhan M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9070708
+   Page MJ, 2021, PLOS MED, V18, DOI [10.1371/journal.pmed.1003583, 10.1016/j.ijsu.2021.105906]
+   Palich R, 2021, Ann Oncol, V32, P1294, DOI 10.1016/j.annonc.2021.06.018
+   Palich R, 2021, ANN ONCOL, V32, P1051, DOI 10.1016/j.annonc.2021.04.020
+   Parry H, 2021, BLOOD CANCER J, V11, DOI 10.1038/s41408-021-00528-x
+   Peeters M, 2021, ESMO OPEN, V6, DOI 10.1016/j.esmoop.2021.100274
+   Peled Y, 2022, J HEART LUNG TRANSPL, V41, P148, DOI 10.1016/j.healun.2021.08.010
+   Peled Y, 2021, J HEART LUNG TRANSPL, V40, P759, DOI 10.1016/j.healun.2021.04.003
+   Pereira MR, 2020, AM J TRANSPLANT, V20, P1800, DOI 10.1111/ajt.15941
+   Peters JL, 2007, STAT MED, V26, P4544, DOI 10.1002/sim.2889
+   Pimpinelli F, 2021, J HEMATOL ONCOL, V14, DOI 10.1186/s13045-021-01090-6
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Pregliasco F, 1996, VACCINE, V14, P267, DOI 10.1016/0264-410X(95)00209-J
+   Prendecki M, 2021, LANCET, V398, P1482, DOI 10.1016/S0140-6736(21)02096-1
+   Prendecki M, 2021, ANN RHEUM DIS, V80, P1322, DOI 10.1136/annrheumdis-2021-220626
+   Rabinowich L, 2021, J HEPATOL, V75, P435, DOI 10.1016/j.jhep.2021.04.020
+   Rahav G, 2021, ECLINICALMEDICINE, V41, DOI 10.1016/j.eclinm.2021.101158
+   Rashidi-Alavijeh J, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9070738
+   Reuken PA, 2022, J CROHNS COLITIS, V16, P251, DOI 10.1093/ecco-jcc/jjab147
+   Rincon-Arevalo H, 2021, SCI IMMUNOL, V6, DOI 10.1126/sciimmunol.abj1031
+   Roifman CM, 2021, LYMPHOSIGN J, V8, P37, DOI 10.14785//lymphosign-2021-0020
+   Rubbert-Roth A, 2021, LANCET RHEUMATOL, V3, pE470, DOI 10.1016/S2665-9913(21)00186-7
+   Ruether DF, 2022, CLIN GASTROENTEROL H, V20, P162, DOI 10.1016/j.cgh.2021.09.003
+   Sattler A, 2021, J CLIN INVEST, V131, DOI 10.1172/JCI150175
+   Schmidt T, 2021, AM J TRANSPLANT, V21, P3990, DOI 10.1111/ajt.16818
+   Schmiedeberg K, 2022, LANCET RHEUMATOL, V4, pE11, DOI 10.1016/S2665-9913(21)00328-3
+   Schramm R, 2021, CLIN RES CARDIOL, V110, P1142, DOI 10.1007/s00392-021-01880-5
+   Schrezenmeier E, 2021, J AM SOC NEPHROL, V32, P3027, DOI 10.1681/ASN.2021070966
+   Seyahi E, 2021, RHEUMATOL INT, V41, P1429, DOI 10.1007/s00296-021-04910-7
+   Shem-Tov N, 2022, BRIT J HAEMATOL, V196, P884, DOI 10.1111/bjh.17918
+   Sherman AC, 2021, CLIN INFECT DIS, DOI 10.1093/cid/ciab930
+   Shinjo SK, 2021, RHEUMATOLOGY, DOI 10.1093/rheumatology/keab773
+   Shmueli ES, 2021, EUR J CANCER, V157, P124, DOI 10.1016/j.ejca.2021.08.007
+   Shroff RT, 2021, NAT MED, V27, P2002, DOI 10.1038/s41591-021-01542-z
+   Silva-Cayetano A, 2021, MED-CAMBRIDGE, V2, P243, DOI 10.1016/j.medj.2020.12.006
+   Simon D, 2021, ANN RHEUM DIS, V80, P1312, DOI 10.1136/annrheumdis-2021-220461
+   Ssentongo P, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-85359-3
+   Stampfer SD, 2021, LEUKEMIA, V35, P3534, DOI 10.1038/s41375-021-01354-7
+   Sterne JAC, 2019, BMJ-BRIT MED J, V366, DOI 10.1136/bmj.l4898
+   Sterne JAC, 2016, BMJ-BRIT MED J, V355, DOI 10.1136/bmj.i4919
+   Stumpf J, 2021, LANCET REG HEALTH-EU, V9, DOI 10.1016/j.lanepe.2021.100178
+   Terpos E, 2021, CANCERS, V13, DOI 10.3390/cancers13174480
+   Terpos E, 2021, J HEMATOL ONCOL, V14, DOI 10.1186/s13045-021-01099-x
+   US Food and Drug Administration, 2021, COR COVID 19 UPD FDA
+   Voysey M, 2021, LANCET, V397, P99, DOI 10.1016/S0140-6736(20)32661-1
+   Westhoff TH, 2021, KIDNEY INT, V100, P1135, DOI 10.1016/j.kint.2021.09.001
+   Westra J, 2014, CLIN EXP IMMUNOL, V178, P40, DOI 10.1111/cei.12390
+   Wise J, 2021, BMJ-BRIT MED J, V374, DOI 10.1136/bmj.n2160
+   Woldemeskel BA, 2022, CLIN INFECT DIS, V74, P1268, DOI 10.1093/cid/ciab648
+   Wong SY, 2021, GASTROENTEROLOGY, V161, P715, DOI 10.1053/j.gastro.2021.04.025
+   Yi Stephanie G, 2021, Transplantation, V105, pe72, DOI 10.1097/TP.0000000000003764
+   Zagouri F, 2021, BREAST, V60, P58, DOI 10.1016/j.breast.2021.08.017
+   Zbinden D, 2014, IMMUNOTHERAPY-UK, V6, P131, DOI [10.2217/IMT.13.171, 10.2217/imt.13.171]
+   Zhao JJ, 2020, CLIN INFECT DIS, V71, P2027, DOI 10.1093/cid/ciaa344
+NR 143
+TC 3
+Z9 3
+U1 1
+U2 1
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+EI 1756-1833
+J9 BMJ-BRIT MED J
+JI BMJ-British Medical Journal
+PD MAR 2
+PY 2022
+VL 376
+AR e068632
+DI 10.1136/bmj-2021-068632
+PG 16
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA ZX8XR
+UT WOS:000772178100006
+PM 35236664
+OA Green Published, Green Submitted, hybrid
+DA 2022-05-16
+ER
+
+EF

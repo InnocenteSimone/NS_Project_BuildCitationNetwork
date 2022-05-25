@@ -1,0 +1,1147 @@
+PT J
+AU Lai, FTT
+   Huang, L
+   Chui, CSL
+   Wan, EYF
+   Li, X
+   Wong, CKH
+   Chan, EWW
+   Ma, TT
+   Lum, DH
+   Leung, JCN
+   Luo, H
+   Chan, EWY
+   Wong, ICK
+AF Lai, Francisco Tsz Tsun
+   Huang, Lei
+   Chui, Celine Sze Ling
+   Wan, Eric Yuk Fai
+   Li, Xue
+   Wong, Carlos King Ho
+   Chan, Edward Wai Wa
+   Ma, Tiantian
+   Lum, Dawn Hei
+   Leung, Janice Ching Nam
+   Luo, Hao
+   Chan, Esther Wai Yin
+   Wong, Ian Chi Kei
+TI Multimorbidity and adverse events of special interest associated with
+   Covid-19 vaccines in Hong Kong
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID VACCINATION; CARE
+AB Prior research using electronic health records for Covid-19 vaccine safety monitoring typically focuses on specific disease groups and excludes individuals with multimorbidity, defined as >= 2 chronic conditions. We examine the potential additional risk of adverse events 28 days after the first dose of CoronaVac or Comirnaty imposed by multimorbidity. Using a territory-wide public healthcare database with population-based vaccination records in Hong Kong, we analyze a retrospective cohort of patients with chronic conditions. Thirty adverse events of special interest according to the World Health Organization are examined. In total, 883,416 patients are included and 2,807 (0.3%) develop adverse events. Results suggest vaccinated patients have lower risks of adverse events than unvaccinated individuals, multimorbidity is associated with increased risks regardless of vaccination, and the association of vaccination with adverse events is not modified by multimorbidity. To conclude, we find no evidence that multimorbidity imposes extra risks of adverse events following Covid-19 vaccination.
+   Adverse events resulting from COVID-19 vaccination are a public health concern and it is not known whether pre-existing conditions may impose an increased risk. Here, using electronic health records from Hong Kong, the authors show that adverse events are rare for all groups, and there is no evidence of risk modification due to multimorbidity.
+C1 [Lai, Francisco Tsz Tsun; Huang, Lei; Wan, Eric Yuk Fai; Wong, Carlos King Ho; Chan, Edward Wai Wa; Ma, Tiantian; Lum, Dawn Hei; Leung, Janice Ching Nam; Chan, Esther Wai Yin; Wong, Ian Chi Kei] Univ Hong Kong, Li Ka Shing Fac Med, Ctr Safe Medicat Practice & Res, Dept Pharmacol & Pharm, Hong Kong, Peoples R China.
+   [Lai, Francisco Tsz Tsun; Chui, Celine Sze Ling; Wan, Eric Yuk Fai; Li, Xue; Wong, Carlos King Ho; Ma, Tiantian; Leung, Janice Ching Nam; Chan, Esther Wai Yin; Wong, Ian Chi Kei] Hong Kong Sci & Technol Pk, Lab Data Discovery Hlth D24H, Hong Kong Sci Pk, Hong Kong, Peoples R China.
+   [Chui, Celine Sze Ling] Univ Hong Kong, Li Ka Shing Fac Med, Sch Nursing, Hong Kong, Peoples R China.
+   [Chui, Celine Sze Ling] Univ Hong Kong, Li Ka Shing Fac Med, Sch Publ Hlth, Hong Kong, Peoples R China.
+   [Wan, Eric Yuk Fai; Wong, Carlos King Ho] Univ Hong Kong, Li Ka Shing Fac Med, Dept Family Med & Primary Care, Hong Kong, Peoples R China.
+   [Li, Xue] Univ Hong Kong, Li Ka Shing Fac Med, Dept Med, Hong Kong, Peoples R China.
+   [Luo, Hao] Univ Hong Kong, Fac Social Sci, Dept Social Work & Social Adm, Hong Kong, Peoples R China.
+   [Luo, Hao] Univ Hong Kong, Fac Engn, Dept Comp Sci, Hong Kong, Peoples R China.
+   [Wong, Ian Chi Kei] UCL, Sch Pharm, Res Dept Practice & Policy, London, England.
+RP Wong, ICK (corresponding author), Univ Hong Kong, Li Ka Shing Fac Med, Ctr Safe Medicat Practice & Res, Dept Pharmacol & Pharm, Hong Kong, Peoples R China.; Wong, ICK (corresponding author), Hong Kong Sci & Technol Pk, Lab Data Discovery Hlth D24H, Hong Kong Sci Pk, Hong Kong, Peoples R China.; Wong, ICK (corresponding author), UCL, Sch Pharm, Res Dept Practice & Policy, London, England.
+EM wongick@hku.hk
+RI Lai, Francisco TT/F-3842-2019; Wong, Carlos King-ho/B-4322-2011
+OI Lai, Francisco TT/0000-0002-9121-1959; Wong, Carlos
+   King-ho/0000-0002-6895-6071
+FU Food and Health Bureau, Government of the Hong Kong Special
+   Administrative Region of China [COVID19F01]
+FX This study was funded by a research grant from the Food and Health
+   Bureau, Government of the Hong Kong Special Administrative Region of
+   China to Prof. Ian Chi Kei Wong (reference COVID19F01). We thank Mr.
+   Joseph Blais for language proofreading this manuscript.
+CR Barda N, 2021, NEW ENGL J MED, V385, P1078, DOI 10.1056/NEJMoa2110475
+   Barnett K, 2012, LANCET, V380, P37, DOI 10.1016/S0140-6736(12)60240-2
+   Brilleman SL, 2013, FAM PRACT, V30, P172, DOI 10.1093/fampra/cms060
+   Calderon-Larranaga A, 2012, BRIT J GEN PRACT, V62, DOI 10.3399/bjgp12X659295
+   Centre for Health Protection, INT GUID NOT COMM ME
+   Centre for Health Protection, HONG KONG VACC DASHB
+   Chiu SS, 2002, NEW ENGL J MED, V347, P2097, DOI 10.1056/NEJMoa020546
+   Chung GKK, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18158168
+   Dagan N, 2021, NEW ENGL J MED, V384, P1412, DOI 10.1056/NEJMoa2101765
+   de Simone G, 2021, EUR HEART J-CARD PHA, V7, pE77, DOI 10.1093/ehjcvp/pvab036
+   Hanlon P, 2018, BMJ OPEN, V8, DOI 10.1136/bmjopen-2017-018404
+   Hong Kong Government, COVID 19 VACC PROGR
+   Iaccarino G, 2020, HYPERTENSION, V76, P366, DOI 10.1161/HYPERTENSIONAHA.120.15324
+   Incalzi RA, 2021, VACCINE, V39, P2325, DOI 10.1016/j.vaccine.2021.03.066
+   Kwok KO, 2021, EMERG INFECT DIS, V27, P1802, DOI 10.3201/eid2707.210054
+   Lai FTT, 2022, PSYCHOL MED, V52, P283, DOI 10.1017/S0033291720001920
+   Lai FTT, 2019, EUR J INTERN MED, V61, P103, DOI 10.1016/j.ejim.2018.12.001
+   Lau WCY, 2017, JAMA-J AM MED ASSOC, V317, P1151, DOI 10.1001/jama.2017.1363
+   Leung GM, 2009, HEALTH ECON, V18, P37, DOI 10.1002/hec.1342
+   Li X., ANN RHEUM DIS, DOI [10.1136/annrheumdis-2021-221571(2021), DOI 10.1136/ANNRHEUMDIS-2021-221571(2021)]
+   Li XT, 2021, BMJ-BRIT MED J, V373, DOI 10.1136/bmj.n1435
+   Man KKC, 2017, BMJ-BRIT MED J, V357, DOI 10.1136/bmj.j2350
+   Marengoni A, 2015, BMJ-BRIT MED J, V350, DOI 10.1136/bmj.h1059
+   Monin L, 2021, LANCET ONCOL, V22, P765, DOI 10.1016/S1470-2045(21)00213-8
+   Montgomery J, 2021, JAMA CARDIOL, V6, P1202, DOI 10.1001/jamacardio.2021.2833
+   Nguyen Hai, 2019, J Comorb, V9, p2235042X19870934, DOI 10.1177/2235042X19870934
+   Ostergaard SD, 2021, LANCET, V397, P1441, DOI 10.1016/S0140-6736(21)00762-5
+   Patone M, 2021, NAT MED, V27, P2144, DOI 10.1038/s41591-021-01556-7
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Revon-Riviere G, 2021, EUR J CANCER, V154, P30, DOI 10.1016/j.ejca.2021.06.002
+   Salah HM, 2021, AM J CARDIOL, V157, P146, DOI 10.1016/j.amjcard.2021.07.009
+   Sturkenboom M, COVERAGE COVID 19 VA
+   Su S, 2021, NAT REV MICROBIOL, V19, P211, DOI 10.1038/s41579-020-00462-y
+   Takuva S, 2021, NEW ENGL J MED, V385, P570, DOI 10.1056/NEJMc2107920
+   Tanriover MD, 2021, LANCET, V398, P213, DOI 10.1016/S0140-6736(21)01429-X
+   Tonelli M, 2015, BMC MED INFORM DECIS, V15, DOI 10.1186/s12911-015-0155-5
+   Tsai R., JMIR PUBLIC HLTH SUR, DOI [10.2196/29872(2021, DOI 10.2196/29872(2021]
+   Wang JT, 2021, J HEPATOL, V75, P439, DOI 10.1016/j.jhep.2021.04.026
+   Wong AYS, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.h6926
+   World Health Organization, 2020, BACKGR PAP COV 19 DI
+   Wu QH, 2021, BMC MED, V19, DOI 10.1186/s12916-021-02059-5
+   Yeoh EK, 2020, HEALTH POLICY, V124, P189, DOI 10.1016/j.healthpol.2019.12.009
+   Zhao JJ, 2020, CLIN INFECT DIS, V71, P2027, DOI 10.1093/cid/ciaa344
+   Zhao QY, 2017, J CAUSAL INFERENCE, V5, DOI 10.1515/jci-2016-0010
+NR 44
+TC 5
+Z9 5
+U1 3
+U2 3
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JAN 20
+PY 2022
+VL 13
+IS 1
+AR 411
+DI 10.1038/s41467-022-28068-3
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA YK8QB
+UT WOS:000745469500002
+PM 35058463
+OA Green Published, gold
+DA 2022-05-16
+ER
+
+PT J
+AU Nadimuthu, LPR
+   Victor, K
+AF Nadimuthu, Lalith Pankaj Raj
+   Victor, Kirubakaran
+TI Environmental friendly micro cold storage for last-mile Covid-19 vaccine
+   logistics
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Covid-19 vaccine; Last-mile vaccine logistics; Micro cold storage; Solar
+   photovoltaics; Climate change mitigation; Carbon emission reduction
+ID COOLER; ENERGY
+AB Globally, vaccination plays a vital role in controlling the Covid-19 pandemic. However, the cold supply chain is essential for vaccine storage and logistics services. In a country like India, the last-mile logistics of vaccines is a challenging task. The cold chain is indispensable for the Covid-19 vaccine drive to the rural areas. The demand for cold storage increases rapidly due to the rapid Covid-19 vaccine drive. The conventional cold storage facility has a more significant threat to the grid power quality and environmental impacts. The energy demand and greenhouse gas emission of traditional cold storage lead to global warming. The micro cold storage facility has to be developed rapidly to accelerate the vaccine drive to the last mile of the county with reliable and affordable energy sources. In addition, climate change mitigation is ensured by the renewable energy utilization in the Covid-19 vaccine drive. The proposed novel micro cold storage aims to be silent, clean, mobile, without moving parts, and reliable for the last-mile vaccine logistics as a vaccine carrier to the remote rural areas. This paper deals with the novel design, development, and experimental investigation of solar photovoltaic powered thermoelectric-based micro cold storage as a Covid-19 vaccine carrier for rural areas. The design consideration of Covid-19 vaccine storage has been reported. The experimental results ensure the World Health Organization recommended vaccine storage (i.e., vaccine carrier) temperature range of +2 to +8 degrees C. Therefore, green energy and refrigeration system provide environmental sustainability by mitigating 700kg of annual carbon emission.
+C1 [Nadimuthu, Lalith Pankaj Raj; Victor, Kirubakaran] Gandhigram Rural Inst Deemed Univ, Ctr Rural Energy, Gandhigram 624302, Tamil Nadu, India.
+RP Nadimuthu, LPR (corresponding author), Gandhigram Rural Inst Deemed Univ, Ctr Rural Energy, Gandhigram 624302, Tamil Nadu, India.
+EM lpraj1995@gmail.com
+RI Nadimuthu, Lalith Pankaj Raj/ABA-6826-2020; V, Kirubakaran/AAA-3938-2020
+OI Nadimuthu, Lalith Pankaj Raj/0000-0002-0387-4120; V,
+   Kirubakaran/0000-0001-7160-4758
+FU Department of Science and Technology (DST), Government of India
+   [IF180435]; All India Council for Technical Education (AICTE)
+   [9-41/RIFD/MODROB/Policy-1/2017-18]
+FX The authors gratefully acknowledge the Department of Science and
+   Technology (DST), Government of India, for support under the DST-INSPIRE
+   Fellowship Scheme (ID No: IF180435). Also, acknowledge the funding
+   received from the All India Council for Technical Education (AICTE)
+   under the Modernization and Removal of Obsolescence (MODROBS) scheme
+   (AICTE File No. 9-41/RIFD/MODROB/Policy-1/2017-18 Dt. 26.03.2019).
+CR Arputham S., 2021, THERM SCI THERM SCI, V298, DOI [10.2298/TSCI201110298S, DOI 10.2298/TSCI201110298S]
+   Benhadid-Dib S, 2012, ENRGY PROCED, V18, P807, DOI 10.1016/j.egypro.2012.05.096
+   Bharatbiotech, 2020, COVAXIN IND 1 IND CO
+   Cai Y, 2016, ENERG CONVERS MANAGE, V124, P203, DOI 10.1016/j.enconman.2016.07.011
+   Dai DM, 2021, ADV DIFFER EQU-NY, V2021, DOI 10.1186/s13662-020-03173-z
+   Dimri N, 2017, ENERG CONVERS MANAGE, V146, P68, DOI 10.1016/j.enconman.2017.05.017
+   Gianfredi V, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9060574
+   GOI-MOP, 2018, CO 2 BAS DAT IND POW
+   government of India M of H and FW, 2020, COVID 19 VACC OP GUI
+   Government of India Ministry of Health & Family Welfare, 2016, HDB VACC COLD CHAIN
+   Hagenkamp M, 2022, INT J ENERGY ENVIR E, V13, P241, DOI 10.1007/s40095-021-00424-x
+   Healthcare Global, CHALL VACC DISTR AFF
+   Hindu BL-T, IND CAN MEET COVID V
+   India C, 2016, COOLING INDIA MONTHL
+   Jiang P, 2021, ENERGY, V235, DOI 10.1016/j.energy.2021.121315
+   Kirubakaran, 2019, WASTE VALORISATION R, P349
+   Kumar VM, 2021, NPJ VACCINES, V6, DOI 10.1038/s41541-021-00327-2
+   Lalith Pankaj, 2018, INT J ENG TECHNOLOGY, V7, DOI [10.14419/ijet.v7i23314832, DOI 10.14419/IJET.V7I2.33.14832]
+   Raj GNLP, 2021, INT J PHOTOENERGY, V2021, DOI 10.1155/2021/6651717
+   Lee TH, 2021, NEW ENGL J MED, V384, P685, DOI 10.1056/NEJMp2100574
+   Marathe, 2021, TRANSP RES INTERDISC, V10, DOI DOI 10.1016/J.TRIP.2021.100339
+   Marimuthu C, 2013, RENEW SUST ENERG REV, V23, P80, DOI 10.1016/j.rser.2013.02.045
+   Marlow Industries I, THERM COOL SYST DES
+   Mirmanto M, 2019, ENG SCI TECHNOL, V22, P177, DOI 10.1016/j.jestch.2018.09.006
+   Nadimuthu LPR, 2021, IEEE ACCESS, V9, P146959, DOI 10.1109/ACCESS.2021.3123153
+   Nadimuthu LPR, 2021, PROC INTEGR OPTIM, V5, P975, DOI 10.1007/s41660-021-00194-3
+   Nadimuthu LPR, 2021, ENVIRON SCI POLLUT R, V28, P34278, DOI 10.1007/s11356-021-12894-x
+   Ngcobo MEK, 2012, INT J REFRIG, V35, P445, DOI 10.1016/j.ijrefrig.2011.11.008
+   Our World in Data, 2021, COR COVID 19 HOSP ST
+   Padmavathy SR, 2021, ENVIRON SCI POLLUT R, DOI 10.1007/s11356-021-15875-2
+   Raj GNLP, 2018, 2018 4TH INTERNATIONAL CONFERENCE ON ELECTRICAL ENERGY SYSTEMS (ICEES), P726, DOI 10.1109/ICEES.2018.8442352
+   Raj N., THERM SCI, V301, DOI [10.2298/TSCI201211301N, DOI 10.2298/TSCI201211301N, 10.2298/ TSCI201211301N]
+   RetailerTraining N, PROGR 2021 KNOW YOUR
+   Ricco M, 2021, INFECT DIS NOW, V51, P402, DOI 10.1016/j.idnow.2021.03.001
+   Saif A, 2016, EUR J OPER RES, V251, P274, DOI 10.1016/j.ejor.2015.10.056
+   Sarwar S, 2021, J ENVIRON HEALTH SCI, V19, P1513, DOI 10.1007/s40201-021-00707-9
+   Segarra M, 2015, MATER TODAY-PROC, V2, P858, DOI 10.1016/j.matpr.2015.05.111
+   Selvaraj DA, 2021, INT J PHOTOENERGY, V2021, DOI 10.1155/2021/6655113
+   Selvaraj DA, 2021, ENVIRON SCI POLLUT R, V28, P34248, DOI 10.1007/s11356-020-11214-z
+   Sevindir MK, 2017, RENEW ENERG, V113, P74, DOI 10.1016/j.renene.2017.05.070
+   Shaik SV, 2020, ENVIRON SCI POLLUT R, V27, P41415, DOI 10.1007/s11356-020-09478-6
+   Shaik SV, 2020, P I MECH ENG C-J MEC, V234, P914, DOI 10.1177/0954406219884968
+   SPUTNIK V, 2021, AB VACC OFF WEBS COV
+   Sun Xu, 2021, Transp Res Interdiscip Perspect, V11, P100453, DOI 10.1016/j.trip.2021.100453
+   Team SAA, YOURSTORY COM
+   Vigneshwari CA, 2016, 2016 INTERNATIONAL CONFERENCE ON ENERGY EFFICIENT TECHNOLOGIES FOR SUSTAINABILITY (ICEETS), P239, DOI 10.1109/ICEETS.2016.7582933
+   Waheed R, 2018, J CLEAN PROD, V172, P4231, DOI 10.1016/j.jclepro.2017.10.287
+   Wang Y, 2019, SUSTAIN CITIES SOC, V49, DOI 10.1016/j.scs.2019.101599
+   World Health Organization, 2015, IMM PRACT
+   Xu XF, 2018, INT J ENERG RES, V42, P4429, DOI 10.1002/er.4187
+   Zhao CJ, 2016, APPL ENERG, V168, P314, DOI 10.1016/j.apenergy.2016.01.101
+NR 51
+TC 0
+Z9 0
+U1 29
+U2 29
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD APR
+PY 2022
+VL 29
+IS 16
+BP 23767
+EP 23778
+DI 10.1007/s11356-021-17584-2
+EA NOV 2021
+PG 12
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA 0H8WJ
+UT WOS:000721662400006
+PM 34816344
+OA Bronze, Green Published
+DA 2022-05-16
+ER
+
+PT J
+AU Crommelin, DJA
+   Volkin, DB
+   Hoogendoorn, KH
+   Lubiniecki, AS
+   Jiskoot, W
+AF Crommelin, Daan J. A.
+   Volkin, David B.
+   Hoogendoorn, Karin H.
+   Lubiniecki, Anthony S.
+   Jiskoot, Wim
+TI The Science is There: Key Considerations for Stabilizing Viral
+   Vector-Based Covid-19 Vaccines
+SO JOURNAL OF PHARMACEUTICAL SCIENCES
+LA English
+DT Editorial Material
+DE Covid-19; Formulation; Freeze drying; Live attenuated virus; Shelf life;
+   Stability; Storage; Vaccine; Viral vector
+ID LIQUID FORMULATIONS; COLD CHAIN; LIVE; MEASLES; INFECTIVITY
+AB Once Covid-19 vaccines become available, 5-10 billion vaccine doses should be globally distributed, stored and administered. In this commentary, we discuss how this enormous challenge could be addressed for viral vector-based Covid-19 vaccines by learning from the wealth of formulation development experience gained over the years on stability issues related to live attenuated virus vaccines and viral vector vaccines for other diseases. This experience has led -over time- to major improvements on storage temperature, shelf-life and in-use stability requirements. First, we will cover work on 'classical' live attenuated virus vaccines as well as replication competent viral vector vaccines. Subsequently, we address replication deficient viral vector vaccines. Freeze drying and storage at 2-8 degrees C with a shelf life of years has become the norm. In the case of pandemics with incredibly high and urgent product demands, however, the desire for rapid and convenient distribution chains combined with short end-user storage times require that liquid formulations with shelf lives of months stored at 2-8 degrees C be considered. In confronting this "perfect storm" of Covid-19 vaccine stability challenges, understanding the many lessons learned from decades of development and manufacturing of live virus-based vaccines is the shortest path for finding promising and rapid solutions. (c) 2020 American Pharmacists Association (R). Published by Elsevier Inc. All rights reserved.
+C1 [Crommelin, Daan J. A.] Univ Utrecht, Dept Pharmaceut, Fac Sci, Utrecht, Netherlands.
+   [Volkin, David B.] Univ Kansas, Dept Pharmaceut Chem, Vaccine Analyt & Formulat Ctr, Lawrence, KS 66045 USA.
+   [Hoogendoorn, Karin H.] Lonza BV, Preclin Serv Cell & Gene Therapy, Maastricht, Netherlands.
+   [Lubiniecki, Anthony S.] AL Associates LLC, W Chester, PA USA.
+   [Jiskoot, Wim] Leiden Univ, Leiden Acad Ctr Drug Res, Div BioTherapeut, Einsteinweg 55, NL-2333 CC Leiden, Netherlands.
+RP Jiskoot, W (corresponding author), Leiden Univ, Leiden Acad Ctr Drug Res, Div BioTherapeut, Einsteinweg 55, NL-2333 CC Leiden, Netherlands.
+EM w.jiskoot@lacdr.leidenuniv.nl
+RI Jiskoot, Wim/A-6877-2016
+OI Jiskoot, Wim/0000-0002-1012-3456
+CR Burke CJ, 1999, CRIT REV THER DRUG, V16, P1
+   Burke RM, 2019, CURR OPIN INFECT DIS, V32, P435, DOI 10.1097/QCO.0000000000000572
+   Evans RK, 2004, J PHARM SCI-US, V93, P2458, DOI 10.1002/jps.20157
+   Fedosyuk S, 2019, VACCINE, V37, P6951, DOI 10.1016/j.vaccine.2019.04.056
+   FERRIS NP, 1990, J VIROL METHODS, V29, P43, DOI 10.1016/0166-0934(90)90006-2
+   Gray GC, 2018, PLOTKINS VACCINES
+   Hansen LJJ, 2015, VACCINE, V33, P5507, DOI 10.1016/j.vaccine.2015.08.085
+   Juan-Giner A, 2020, VACCINE, V38, P2473, DOI 10.1016/j.vaccine.2020.02.005
+   Kang MS, 2010, POULTRY SCI, V89, P1167, DOI 10.3382/ps.2009-00620
+   Kumru OS, 2018, J PHARM SCI-US, V107, P2764, DOI 10.1016/j.xphs.2018.07.010
+   Kumru OS, 2014, BIOLOGICALS, V42, P237, DOI 10.1016/j.biologicals.2014.05.007
+   Lovalenti PM, 2016, PHARM RES-DORDR, V33, P1144, DOI 10.1007/s11095-016-1860-1
+   Naik SP, 2017, VACCINE, V35, P2962, DOI 10.1016/j.vaccine.2017.04.025
+   Patel A, 2018, VACCINE, V36, P3169, DOI 10.1016/j.vaccine.2017.04.086
+   Prausnitz MR, 2020, CURR OPIN VIROL, V41, P68, DOI 10.1016/j.coviro.2020.05.005
+   Reinauer EB, 2020, J PHARM SCI-US, V109, P818, DOI 10.1016/j.xphs.2019.10.063
+   Schlehuber LD, 2011, VACCINE, V29, P5031, DOI 10.1016/j.vaccine.2011.04.079
+   Shokri S, 2019, J VIROL METHODS, V264, P18, DOI 10.1016/j.jviromet.2018.08.013
+   SOOD DK, 1993, VACCINE, V11, P1124, DOI 10.1016/0264-410X(93)90073-7
+   Tlaxca JL, 2015, ADV DRUG DELIVER REV, V93, P56, DOI 10.1016/j.addr.2014.10.002
+   Zhai SL, 2004, BIOTECHNOL PROGR, V20, P1113, DOI 10.1021/bp034362x
+   Zhu FC, 2020, LANCET, V395, P1845, DOI 10.1016/S0140-6736(20)31208-3
+NR 22
+TC 13
+Z9 13
+U1 4
+U2 13
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-3549
+EI 1520-6017
+J9 J PHARM SCI-US
+JI J. Pharm. Sci.
+PD FEB
+PY 2021
+VL 110
+IS 2
+BP 627
+EP 634
+DI 10.1016/j.xphs.2020.11.015
+EA JAN 2021
+PG 8
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Chemistry
+GA PS7SV
+UT WOS:000608126900010
+PM 33242452
+OA Green Published, Bronze
+DA 2022-05-16
+ER
+
+PT J
+AU Pratama, NR
+   Wafa, IA
+   Budi, DS
+   Putra, M
+   Wardhana, MP
+   Wungu, CDK
+AF Pratama, Nando Reza
+   Wafa, Ifan Ali
+   Budi, David Setyo
+   Putra, Manesha
+   Wardhana, Manggala Pasca
+   Wungu, Citrawati Dyah Kencono
+TI mRNA Covid-19 vaccines in pregnancy: A systematic review
+SO PLOS ONE
+LA English
+DT Review
+ID HERD-IMMUNITY; TRANSPLACENTAL TRANSFER; ANTIBODIES; INFECTION
+AB Objective
+   Pregnancy is a known risk factor for severe Coronavirus disease 2019. It is important to develop safe vaccines that elicit strong maternal and fetal antibody responses.
+   Methods
+   Registries (ClinicalTrials.gov, the WHO Clinical Trial Registry, and the European Union Clinical Trial Registry) and databases (MEDLINE, ScienceDirect, Cochrane Library, Proquest, Springer, medRxiv, and bioRxiv) were systematically searched in June 20-22, 2021, for research articles pertaining to Covid-19 and pregnancy. Manual searches of bioRxiv and medRxiv were also conducted. Inclusion criteria were studies that focused on Covid-19 vaccination among pregnant women, while review articles and non-human studies were excluded. Infection rate, maternal antibody response, transplacental antibody transfer, and adverse events were described.
+   Results
+   There were 13 observational studies with a total of 48,039 pregnant women who received mRNA vaccines. Of those, three studies investigated infection rate, six studies investigated maternal antibody response, seven studies investigated antibody transfer, three studies reported local adverse events, and five studies reported systemic adverse events. The available data suggested that the mRNA-based vaccines (Pfizer-BioNTech and Moderna) can prevent future SARS-CoV-2 infection. These vaccines did not show clear harm in pregnancy. The most commonly encountered adverse reactions were pain at the injection site, fatigue, and headache, but these were transient. Antibody responses were rapid after the first vaccine dose. After the booster, antibody responses were stronger and associated with better transplacental antibody transfer. Longer intervals between first vaccination dose and delivery were also associated with higher antibody fetal IgG and a better antibody transfer ratio.
+   Conclusions
+   The SARS-CoV-2 mRNA vaccines are encouraged for pregnancy. These vaccines can be a safe option for pregnant women and their fetuses. Two vaccine doses are recommended for more robust maternal and fetal antibody responses. Longer latency is associated with higher fetal antibody responses. Further research about its long-term effect on pregnancy is needed.
+C1 [Pratama, Nando Reza; Wafa, Ifan Ali; Budi, David Setyo] Univ Airlangga, Fac Med, Surabaya, Indonesia.
+   [Putra, Manesha] Univ Colorado, Dept Obstet & Gynecol, Div Maternal Fetal Med, Anschutz Sch Med, Aurora, CO USA.
+   [Wardhana, Manggala Pasca] Univ Airlangga, Dr Soetomo Gen Hosp, Fac Med, Dept Obstet & Gynecol, Surabaya, Indonesia.
+   [Wungu, Citrawati Dyah Kencono] Univ Airlangga, Fac Med, Dept Physiol & Med Biochem, Surabaya, Indonesia.
+   [Wungu, Citrawati Dyah Kencono] Univ Airlangga, Inst Trop Dis, Surabaya, Indonesia.
+RP Wungu, CDK (corresponding author), Univ Airlangga, Fac Med, Dept Physiol & Med Biochem, Surabaya, Indonesia.; Wungu, CDK (corresponding author), Univ Airlangga, Inst Trop Dis, Surabaya, Indonesia.
+EM citrawati.dyah@fk.unair.ac.id
+RI ; Wardhana, Manggala Pasca/AAM-5919-2021
+OI PRATAMA, NANDO REZA/0000-0001-5627-7525; Budi, David
+   Setyo/0000-0002-0317-6402; Wardhana, Manggala Pasca/0000-0001-8013-4639;
+   Kencono Wungu, Citrawati Dyah/0000-0001-5180-957X
+CR Abu-Raddad LJ, 2021, NEW ENGL J MED, V385, P187, DOI 10.1056/NEJMc2104974
+   Anderson RM, 2020, LANCET, V396, P1614, DOI 10.1016/S0140-6736(20)32318-7
+   Atyeo C, 2021, CELL, V184, P628, DOI 10.1016/j.cell.2020.12.027
+   Baden LR, 2021, NEW ENGL J MED, V384, P403, DOI 10.1056/NEJMoa2035389
+   Bartsch SM, 2020, AM J PREV MED, V59, P493, DOI 10.1016/j.amepre.2020.06.011
+   Beharier O, 2021, J CLIN INVEST, V131, DOI [10.1172/JCI154834, 10.1172/JCI150319]
+   Bian LL, 2021, EXPERT REV VACCINES, V20, P365, DOI 10.1080/14760584.2021.1903879
+   Boehm E, 2021, CLIN MICROBIOL INFEC, V27, P1109, DOI 10.1016/j.cmi.2021.05.022
+   Castanha PMS, 2019, PLOS NEGLECT TROP D, V13, DOI 10.1371/journal.pntd.0007246
+   Collier ARY, 2021, JAMA-J AM MED ASSOC, V325, P2370, DOI 10.1001/jama.2021.7563
+   Cuningham W, 2019, INFLUENZA OTHER RESP, V13, P438, DOI 10.1111/irv.12649
+   Dashraath P, 2020, AM J OBSTET GYNECOL, V222, P521, DOI 10.1016/j.ajog.2020.03.021
+   Edlow AG, 2020, JAMA NETW OPEN, V3, DOI 10.1001/jamanetworkopen.2020.30455
+   Giles ML, 2019, HUM VACC IMMUNOTHER, V15, P687, DOI 10.1080/21645515.2018.1540807
+   Gill L, 2021, OBSTET GYNECOL, V137, P894, DOI 10.1097/AOG.0000000000004367
+   Goldshtein I, 2021, JAMA-J AM MED ASSOC, V326, P728, DOI 10.1001/jama.2021.11035
+   Gomez CE, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9030243
+   Goncalves G, 1999, EPIDEMIOL INFECT, V122, P273, DOI 10.1017/S0950268899002046
+   Gray KJ, 2021, AM J OBSTET GYNECOL, V225, DOI 10.1016/j.ajog.2021.03.023
+   Griffith BC, 2020, VACCINE, V38, P8040, DOI 10.1016/j.vaccine.2020.09.076
+   Haghpanah F, 2021, ECLINICALMEDICINE, V35, DOI 10.1016/j.eclinm.2021.100863
+   Heininger U, 2009, PEDIATR INFECT DIS J, V28, P443, DOI 10.1097/INF.0b013e318193ead7
+   Hoffmann M, 2021, CELL, V184, P2384, DOI 10.1016/j.cell.2021.03.036
+   Huang CL, 2020, LANCET, V395, P497, DOI 10.1016/S0140-6736(20)30183-5
+   Jennewein MF, 2019, CELL, V178, P202, DOI 10.1016/j.cell.2019.05.044
+   Joanna Briggs Institute, CHECKL SYST REV RES
+   Kadali RAK, 2021, AM J OBSTET GYNECOL, V225, P458, DOI 10.1016/j.ajog.2021.06.007
+   Kann L, 2016, MMWR SURVEILL SUMM, V65, P1, DOI 10.15585/mmwr.ss6506a1
+   Korber B, 2020, CELL, V182, P812, DOI 10.1016/j.cell.2020.06.043
+   Nasreen S., 2021, EFFECTIVENESS COVID, DOI 10.1101/2021.06.28.21259420
+   Page MJ, 2021, BMJ-BRIT MED J, V372, DOI 10.1136/bmj.n71
+   Paul G, 2021, BMC PEDIATR, V21, DOI 10.1186/s12887-021-02618-y
+   Perret C, 2005, J INFECTION, V51, P287, DOI 10.1016/j.jinf.2004.10.003
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Prabhu M, BIORXIV PREPRINT, V2021, DOI [10.1101/2021.04.05.438524, DOI 10.1101/2021.04.05.438524]
+   Randolph HE, 2020, IMMUNITY, V52, P737, DOI 10.1016/j.immuni.2020.04.012
+   Riley LE, 2021, NEW ENGL J MED, V384, P2342, DOI 10.1056/NEJMe2107070
+   Rottenstreich A, 2021, CLIN INFECT DIS, V73, P1909, DOI 10.1093/cid/ciab266
+   Saier MH, 2007, WATER AIR SOIL POLL, V181, P1, DOI 10.1007/s11270-007-9372-6
+   Shakib JH, 2013, J PEDIATR-US, V163, P1422, DOI 10.1016/j.jpeds.2013.06.021
+   Shanes ED, 2021, OBSTET GYNECOL, V138, P281, DOI 10.1097/AOG.0000000000004457
+   Sheikh A, 2021, LANCET, V397, P2461, DOI 10.1016/S0140-6736(21)01358-1
+   Shimabukuro TT, 2021, NEW ENGL J MED, V384, P2273, DOI 10.1056/NEJMoa2104983
+   Starr TN, 2021, CELL REP MED, V2, DOI 10.1016/j.xcrm.2021.100255
+   Sutton D, 2020, NEW ENGL J MED, V382, P2163, DOI 10.1056/NEJMc2009316
+   Theiler RN, 2021, AM J OBST GYNEC MFM, V3, DOI 10.1016/j.ajogmf.2021.100467
+   Van Spall HGC, 2021, EUR HEART J, V42, P2724, DOI 10.1093/eurheartj/ehab103
+   Wang PF, 2021, NATURE, V593, P130, DOI [10.1038/s41586-021-03398-2, 10.1101/2021.01.25.428137]
+   Wardhana MP, 2021, PAK J MED HEALTH SCI, V15, P508
+   Wells G., NEWCASTLE OTTAWA SCA
+   Xia YQ, 2020, FRONT CELL DEV BIOL, V8, DOI 10.3389/fcell.2020.547314
+   Yanes-Lane M, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0241536
+   Zambrano LD, 2020, MMWR-MORBID MORTAL W, V69, P1641, DOI 10.15585/mmwr.mm6944e3
+NR 53
+TC 3
+Z9 3
+U1 2
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 2
+PY 2022
+VL 17
+IS 2
+AR e0261350
+DI 10.1371/journal.pone.0261350
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 0D3HO
+UT WOS:000775890100009
+PM 35108277
+OA gold, Green Published
+DA 2022-05-16
+ER
+
+PT J
+AU Sznajder, KK
+   Kjerulff, KH
+   Wang, M
+   Hwang, W
+   Ramirez, SI
+   Gandhi, CK
+AF Sznajder, Kristin K.
+   Kjerulff, Kristen H.
+   Wang, Ming
+   Hwang, Wenke
+   Ramirez, Sarah, I
+   Gandhi, Chintan K.
+TI Covid-19 vaccine acceptance and associated factors among pregnant women
+   in Pennsylvania 2020
+SO PREVENTIVE MEDICINE REPORTS
+LA English
+DT Article
+DE COVID-19; SARS-CoV-2; Immunization during pregnancy; Vaccine-preventable
+   diseases; Pennsylvania; Pregnant Women; Vaccination
+ID UNITED-STATES; IMMUNIZATION PRACTICES; INFLUENZA VACCINATION;
+   ADVISORY-COMMITTEE; DETERMINANTS; PERTUSSIS; FEVER; TRUST; RISK
+AB Data on factors associated with vaccine acceptance among pregnant women are critical to the rapid scale up of interventions to improve vaccine uptake. When COVID-19 vaccines were still in the testing phases of research, we surveyed pregnant women accessing prenatal care at an academic medical institution in Central Pennsylvania, United States to examine factors associated with vaccine acceptance. Willingness to receive a COVID-19 vaccine once a vaccine became available was asked as part of an ongoing study on the COVID-19 pandemic and pregnancy (n = 196). Overall, 65% of women reported they would be willing or somewhat willing to receive the COVID-19 vaccine. Women who had received an influenza vaccine within the past year were more likely to be willing to receive the COVID-19 vaccine than women who had never received an influenza vaccine or those who received it over one year ago (aOR 4.82; 95% CI 2.17, 10.72). Similarly, women who were employed full-time were more willing to receive the COVID-19 vaccine than women who were not employed full time (aOR 2.22; 95% CI 1.02, 4.81), and women who reported feeling overloaded were more willing to receive the COVID-19 vaccine than women who did not feel overloaded (aOR 2.18; 95% CI 1.02, 4.68). Our findings support the need to increase vaccination education among pregnant women before vaccines are rolled out, especially those who have not received an influenza vaccine within the past year. Improved understanding of willingness to vaccinate among pregnant women will improve future pandemic responses and current vaccination efforts.
+C1 [Sznajder, Kristin K.; Kjerulff, Kristen H.; Wang, Ming; Hwang, Wenke] Penn State Univ, Dept Publ Hlth Sci, Coll Med, 90 Hope Dr, Hershey, PA 17033 USA.
+   [Ramirez, Sarah, I] Penn State Univ, Dept Family & Community Med, Coll Med, Hershey, PA 17033 USA.
+   [Gandhi, Chintan K.] Penn State Univ, Dept Pediat, Coll Med, Hershey, PA 17033 USA.
+RP Sznajder, KK (corresponding author), Penn State Univ, Dept Publ Hlth Sci, Coll Med, 90 Hope Dr, Hershey, PA 17033 USA.
+EM kek157@psu.edu
+OI Gandhi, Chintan/0000-0002-3328-7074
+FU Pennsylvania State University Huck Institute of Life Sciences [7754]
+FX Acknowledgements Our study was funded by the Pennsylvania State
+   University Huck Institute of Life Sciences #7754. We thank the study
+   participants for their time.
+CR Ahlers-Schmidt CR, 2020, PATIENT EDUC COUNS, V103, P2578, DOI 10.1016/j.pec.2020.09.031
+   Al-Mohaithef M, 2020, J MULTIDISCIP HEALTH, V13, P1657, DOI 10.2147/JMDH.S276771
+   Albrecht M, 2020, FRONT IMMUNOL, V11, DOI 10.3389/fimmu.2020.00555
+   [Anonymous], 2020, LANCET, V395, P922, DOI 10.1016/S0140-6736(20)30644-9
+   Bodeker B, 2014, VACCINE, V32, P4131, DOI 10.1016/j.vaccine.2014.06.007
+   Calina D, 2020, INT J MOL MED, V46, P3, DOI 10.3892/ijmm.2020.4596
+   Centers for Disease Control and Prevention, 2021, COVID 19 VACC PREGN
+   Centers for Disease Control and Prevention, 2021, VACC CONS PEOPL WHO
+   Centers for Disease Control and Prevention, COVID 19 VACC US
+   Ceulemans M, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18073367
+   Christie A, 2021, MMWR-MORBID MORTAL W, V70, P858, DOI [10.15585/mmwr.mm7023e2, 10.15585/mmwr.mm7023e2externalicon]
+   Corace K, 2013, AM J INFECT CONTROL, V41, P679, DOI 10.1016/j.ajic.2013.01.014
+   Da Costa D, 1999, J PSYCHOSOM RES, V47, P609, DOI 10.1016/S0022-3999(99)00064-1
+   Do TVC, 2021, CUREUS J MED SCIENCE, V13, DOI 10.7759/cureus.16842
+   Doroftei B, 2021, DIAGNOSTICS, V11, DOI 10.3390/diagnostics11040579
+   Ellington S, 2020, MMWR-MORBID MORTAL W, V69, P769, DOI 10.15585/mmwr.mm6925a1externalicon
+   Fridman A, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0250123
+   Fridman D, 2011, AM J OBSTET GYNECOL, V204, pS124, DOI 10.1016/j.ajog.2011.04.011
+   Fu C., 2020, ACCEPTANCE PREFERENC, DOI [10.1101/2020.04.09.20060103, DOI 10.1101/2020.04.09.20060103]
+   Gandhi CK, 2020, AM J INFECT CONTROL, V48, P361, DOI 10.1016/j.ajic.2020.01.010
+   Ghiasi N, 2021, IMMUNOPATHOL PERSA, V7, DOI 10.34172/ipp.2021.31
+   Gustavson K, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-45920-7
+   Halpin Carmel, 2019, Nurs Older People, V31, P32, DOI 10.7748/nop.2019.e1154
+   Hamel L., 2020, KFF COVID 19 VACCINE
+   Jamison AM, 2019, SOC SCI MED, V221, P87, DOI 10.1016/j.socscimed.2018.12.020
+   Jean-Jacques M, 2021, JAMA-J AM MED ASSOC, V325, P829, DOI 10.1001/jama.2021.1205
+   Jung M, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0200333
+   Kadali R.A.K., AM J OBSTET GYNECOL
+   Kaiser Family Foundation, COVID 19 COR TRACK U
+   Karafillakis E, 2021, VACCINE, V39, P4117, DOI 10.1016/j.vaccine.2021.05.096
+   Kerr SM, 2017, ANN EPIDEMIOL, V27, P777, DOI 10.1016/j.annepidem.2017.10.010
+   Khubchandani J, 2021, J COMMUN HEALTH, V46, P270, DOI 10.1007/s10900-020-00958-x
+   Kjerulff KH, 2013, PAEDIATR PERINAT EP, V27, P62, DOI 10.1111/ppe.12014
+   Laurence Brian, 2012, J Evid Based Dent Pract, V12, P32, DOI 10.1016/S1532-3382(12)70008-8
+   Lean SC, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0186287
+   Machida M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9030210
+   MacNeil JR, 2021, MMWR-MORBID MORTAL W, V70, P651, DOI 10.15585/mmwr.mm7017e4
+   Mohammed H, 2020, VACCINE, V38, P3358, DOI 10.1016/j.vaccine.2020.02.020
+   Murphy J, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-020-20226-9
+   Oliver SE, 2020, MMWR-MORBID MORTAL W, V69, P1922, DOI 10.15585/mmwr.mm6950e2
+   Organization W.H., 2021, BACKGR DOC IN VACC S
+   Pennsylvania Department of Health, 2019, BIRTH STAT
+   Pilishvili T, 2021, NEW ENGL J MED, V385, DOI 10.1056/NEJMoa2106599
+   Power K., 2020, Sustainability: Science, Practice & Policy, V17, P67, DOI 10.1080/15487733.2020.1776561
+   Preis H, 2020, SOC SCI MED, V266, DOI 10.1016/j.socscimed.2020.113348
+   Rasmussen SA, 2021, OBSTET GYNECOL, V137, P408, DOI 10.1097/AOG.0000000000004290
+   Razai M.S., 2021, COVID 19 VACCINE HES
+   Razzaghi H, 2021, MMWR-MORBID MORTAL W, V70, P895, DOI [10.1101/2021.03.26.21254402v1, 10.15585/mmwr.mm7024e2]
+   Sadoff J, 2021, NEW ENGL J MED, V384, P2187, DOI 10.1056/NEJMoa2101544
+   Sallam M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9020160
+   Sarwal Y, 2021, INT J GYNECOL OBSTET, V155, P57, DOI 10.1002/ijgo.13816
+   Shimabukuro TT, 2021, NEW ENGL J MED, V384, P2273, DOI 10.1056/NEJMoa2104983
+   Skjefte M, 2021, EUR J EPIDEMIOL, V36, P197, DOI 10.1007/s10654-021-00728-6
+   Stoddard J., 2021, CORONAVIRUS IMPACT S
+   Thomason M.E., 2020, COPE CORONAVIRUS PER
+   Tran VD, 2021, PHARM PRACT-GRANADA, V19, DOI [10.18549/PharmPract.2021.1.2276, 10.18549/pharmpract.2021.1.2276]
+   Verger P, 2020, EXPERT REV VACCINES, V19, P991, DOI 10.1080/14760584.2020.1825945
+   Villar J, 2021, JAMA PEDIATR, V175, P817, DOI 10.1001/jamapediatrics.2021.1050
+   Waller DK, 2018, BIRTH DEFECTS RES, V110, P342, DOI 10.1002/bdr2.1147
+   Hooper MW, 2021, J GEN INTERN MED, V36, P2130, DOI 10.1007/s11606-021-06698-5
+   Wilder-Smith A, 2020, J TRAVEL MED, V27, DOI 10.1093/jtm/taaa020
+   Xu Z, 2019, J COMPUT SOC SCI, V2, P207, DOI 10.1007/s42001-019-00044-w
+NR 62
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+EI 2211-3355
+J9 PREV MED REP
+JI Prev. Med. Rep.
+PD APR
+PY 2022
+VL 26
+AR 101713
+DI 10.1016/j.pmedr.2022.101713
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 0U4PU
+UT WOS:000787634200031
+PM 35127367
+OA gold, Green Published
+DA 2022-05-16
+ER
+
+PT J
+AU Kwok, HF
+AF Kwok, Hang Fai
+TI Review of Covid-19 vaccine clinical trials ? A puzzle with missing
+   pieces
+SO INTERNATIONAL JOURNAL OF BIOLOGICAL SCIENCES
+LA English
+DT Review
+DE SARS-CoV-2; Pandemic; Vaccination; Different subgroups; Viral Variants
+AB A year after the initial outbreak of Covid-19 pandemic, several Phase III clinical trials investigating vaccine safety and efficacy have been published. These vaccine candidates were developed by different research groups and pharmaceutical companies with various vaccine technologies including mRNA, recombinant protein, adenoviral vector and inactivated virus-based platforms. Despite numerous successful clinical trials, participants enrolled in these trials are limited by trial inclusion and exclusion criteria, geographic location and viral outbreak situation. Many questions still remain, especially for specific subgroups, including the elderly, females with pregnancy and breastfeeding status, and adolescents. At the same time, vaccine efficacy towards asymptomatic infection and specific viral variants are still largely unknown. This review will cover vaccine candidates with Phase III clinical trial data released and discuss the scientific data available so far for these vaccine candidates for different subgroups of people and different viral variants.
+C1 [Kwok, Hang Fai] Univ Macau, Fac Hlth Sci, Inst Translat Med, Ave Univ, Taipa, Macau, Peoples R China.
+RP Kwok, HF (corresponding author), Univ Macau, Fac Hlth Sci, Inst Translat Med, Ave Univ, Taipa, Macau, Peoples R China.
+EM hfkwok@um.edu.mo
+FU Faculty of Health Sciences (FHS) University of Macau (UM) Faculty
+   Allocated Fund (FAF); Science and Technology Development Fund of Macau
+   SAR (FDCT) [0055/2019/A1]
+FX This study was supported by the Faculty of Health Sciences (FHS)
+   University of Macau (UM) Faculty Allocated Fund (FAF) and the Science
+   and Technology Development Fund of Macau SAR (FDCT) [0055/2019/A1] to
+   HFK. The author thanks Dr. HiuFung Yuen, Prof. Gillian Murphy and Mr.
+   Muhammad Jameel Mughal for their critical comments and suggestions on
+   the manuscript
+CR Anderson EJ, 2020, NEW ENGL J MED, V383, P2427, DOI 10.1056/NEJMoa2028436
+   Baden LR, 2021, NEW ENGL J MED, V384, P403, DOI 10.1056/NEJMoa2035389
+   Barrett JR, 2021, NAT MED, V27, P279, DOI 10.1038/s41591-020-01179-4
+   Caddy S, 2020, BMJ-BRIT MED J, V369, DOI 10.1136/bmj.m1790
+   Callaway E, 2020, NATURE, V580, P576, DOI 10.1038/d41586-020-01221-y
+   Ciabattini A, 2020, SEMIN IMMUNOPATHOL, V42, P619, DOI 10.1007/s00281-020-00821-0
+   Cooper DM, 2021, PEDIATR RES, V90, P966, DOI 10.1038/s41390-021-01402-z
+   Corbett KS, 2020, NEW ENGL J MED, V383, P1544, DOI 10.1056/NEJMoa2024671
+   De Kock JH, 2021, BMC PUBLIC HEALTH, V21, DOI 10.1186/s12889-020-10070-3
+   Folegatti PM, 2020, LANCET, V396, P467, DOI 10.1016/S0140-6736(20)31604-4
+   Forni G, 2021, CELL DEATH DIFFER, V28, P626, DOI 10.1038/s41418-020-00720-9
+   Graham SP, 2020, NPJ VACCINES, V5, DOI 10.1038/s41541-020-00221-3
+   Grolli RE, 2021, MOL NEUROBIOL, V58, P1905, DOI 10.1007/s12035-020-02249-x
+   Guebre-Xabier M, 2020, VACCINE, V38, P7892, DOI 10.1016/j.vaccine.2020.10.064
+   Haynes BF, 2020, SCI TRANSL MED, V12, DOI 10.1126/scitranslmed.abe0948
+   Hodgson SH, 2021, LANCET INFECT DIS, V21, pE26, DOI 10.1016/S1473-3099(20)30773-8
+   Jackson LA, 2020, NEW ENGL J MED, V383, P1920, DOI 10.1056/NEJMoa2022483
+   Keech C, 2020, NEW ENGL J MED, V383, P2320, DOI 10.1056/NEJMoa2026920
+   Klein SL, 2021, J CLIN INVEST, V131, DOI 10.1172/JCI147553
+   Ledford H, 2020, NATURE, V588, P377, DOI 10.1038/d41586-020-03542-4
+   Lurie N, 2020, NEW ENGL J MED, V382, P1969, DOI 10.1056/NEJMp2005630
+   Mellet J, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9010039
+   Muik A, 2021, SCIENCE, V371, P1152, DOI 10.1126/science.abg6105
+   Mukaetova-Ladinska EB, 2021, EUR ARCH PSY CLIN N, V271, P235, DOI 10.1007/s00406-020-01210-2
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Poland GA, 2020, LANCET, V396, P1595, DOI 10.1016/S0140-6736(20)32137-1
+   Ramasamy MN, 2020, LANCET, V396, P1979, DOI 10.1016/S0140-6736(20)32466-1
+   Sadoff J, 2021, NEW ENGL J MED, V384, P1824, DOI 10.1056/NEJMoa2034201
+   Stamu-O'Brien C, 2020, J COSMET DERMATOL-US, V19, P2169, DOI 10.1111/jocd.13601
+   Tian JH, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-020-20653-8
+   Tumban E, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13010054
+   van Doremalen Neeltje, 2021, bioRxiv, DOI 10.1101/2021.01.09.426058
+   van Doremalen Neeltje, 2020, bioRxiv, DOI 10.1101/2020.05.13.093195
+   van Riel D, 2020, NAT MATER, V19, P810, DOI 10.1038/s41563-020-0746-0
+   Voysey M, 2021, LANCET, V397, P99, DOI 10.1016/S0140-6736(20)32661-1
+   Walsh EE, 2020, NEW ENGL J MED, V383, P2439, DOI 10.1056/NEJMoa2027906
+   Wang PF, 2021, NATURE, V593, P130, DOI [10.1038/s41586-021-03398-2, 10.1101/2021.01.25.428137]
+   Wang Zijun, 2021, Nature, V592, P616, DOI [10.1101/2021.01.15.426911, 10.1038/s41586-021-03324-6]
+   Warren RC, 2020, NEW ENGL J MED, V383, DOI 10.1056/NEJMp2030033
+   Widge AT, 2021, NEW ENGL J MED, V384, P80, DOI 10.1056/NEJMc2032195
+   World Health Organization, DRAFT LANDSC COVID 1
+   Wu Kai, 2021, bioRxiv, DOI 10.1101/2021.01.25.427948
+   Xie Xuping, 2021, bioRxiv, DOI 10.1101/2021.01.07.425740
+   Zhang YJ, 2021, LANCET INFECT DIS, V21, P181, DOI 10.1016/S1473-3099(20)30843-4
+NR 44
+TC 8
+Z9 9
+U1 3
+U2 4
+PU IVYSPRING INT PUBL
+PI LAKE HAVEN
+PA PO BOX 4546, LAKE HAVEN, NSW 2263, AUSTRALIA
+SN 1449-2288
+J9 INT J BIOL SCI
+JI Int. J. Biol. Sci.
+PY 2021
+VL 17
+IS 6
+BP 1461
+EP 1468
+DI 10.7150/ijbs.59170
+PG 8
+WC Biochemistry & Molecular Biology; Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Life Sciences & Biomedicine - Other
+   Topics
+GA US7KP
+UT WOS:000697605800004
+PM 33907509
+OA gold, Green Published
+DA 2022-05-16
+ER
+
+PT J
+AU Lefebvre, M
+   Vignier, N
+   Pitard, B
+   Botelho-Nevers, E
+   Wyplosz, B
+   Cohen, R
+   Epaulard, O
+AF Lefebvre, M.
+   Vignier, N.
+   Pitard, B.
+   Botelho-Nevers, E.
+   Wyplosz, B.
+   Cohen, R.
+   Epaulard, O.
+CA SPILF Vaccination Prevention Grp
+TI COVID-19 vaccines: Frequently asked questions and updated answers
+SO INFECTIOUS DISEASES NOW
+LA English
+DT Review
+AB At the end of December 2019, China notified the World Health Organization about a viral pneumonia epidemic soon to be named COVID-19, of which the infectious agent, SARS-CoV-2, was rapidly identified. Less than one year later, published phase 3 clinical trials underlined the effectiveness of vaccines utilizing hitherto unusual technology consisting in injection of the messenger RNA (m-RNA) of a viral protein. In the meantime, numerous clinical trials had failed to identify a maximally effective antiviral treatment, and mass vaccination came to be considered as the strategy most likely to put an end to the pandemic. The objective of this text is to address and hopefully answer the questions being put forward by healthcare professionals on the different anti-SARS-CoV-2 vaccines as regards their development, their modes of action, their effectiveness, their limits, and their utilization in different situations; we are proposing a report on both today's state of knowledge, and the 14 February 2021 recommendations of the French health authorities.
+C1 [Lefebvre, M.] Univ Hotel Dieu, Ctr Hosp, Ctr Prevent Malad Infect & Transmissibles, Serv Malad Infect & Trop,Inserm CIC1413, 1 Pl Alexis Ricordeau, F-44000 Nantes, France.
+   [Vignier, N.] Ctr Hosp Andree Rosemon, Ctr Invest Clin Antilles Guyane, CIC Inserm 1424, DRISP, Cayenne, French Guiana.
+   [Vignier, N.] Sorbonne Univ, INSERM, IPLESP, Inst Pierre Louis Epidemiol & Sante Publ, F-75012 Paris, France.
+   [Pitard, B.] Univ Nantes, CNRS ERL6001, Inserm 1232, CRCINA, Nantes, France.
+   [Botelho-Nevers, E.] Univ St Etienne, Ctr Hosp, Serv Infectiol, CIC 1408 Inserm, F-42055 St Etienne, France.
+   [Botelho-Nevers, E.] Univ Claude Bernard Lyon 1, Ctr Int Rech Infectiol CIRI, Univ Jean Monnet, Univ Lyon,Team GIMAP,INSERM U1111,CNRS,UMR530, F-42023 St Etienne, France.
+   [Cohen, R.] Ctr Hosp Intercommunal Creteil, Serv Pediat, InfoVac, 40 Ave Verdun, F-94000 Creteil, France.
+   [Epaulard, O.] Univ Grenoble Alpes, Ctr Hosp, Serv Malad Infect, Grenoble, France.
+   [Epaulard, O.] CIC 1406 Inserm, Grenoble, France.
+   [Vignier, N.] Grp Hosp Sud Ile De France, Dept Infect Dis, F-77000 Melun, France.
+   [Wyplosz, B.] Ctr Hosp Univ Bicetre, AP HP, Serv Malad Infect & Trop, Paris, France.
+RP Lefebvre, M (corresponding author), Univ Hotel Dieu, Ctr Hosp, Ctr Prevent Malad Infect & Transmissibles, Serv Malad Infect & Trop,Inserm CIC1413, 1 Pl Alexis Ricordeau, F-44000 Nantes, France.
+EM naeva.lefebvre@chu-nantes.fr
+RI Cohen, Robert/AAM-4426-2021; Vignier, Nicolas/AAH-8382-2021; Epaulard,
+   Olivier/AHD-4798-2022
+OI Cohen, Robert/0000-0001-6151-0686; Vignier, Nicolas/0000-0002-9410-9327;
+   
+CR Abu Jabal K, 2021, IMPACT ETHNICITY SEX
+   Agence Nationale de Securite du Medicament et des Produits de Sante (ANSM) Agence Nationale de Securite du Medicament et des Produits de Sante (ANSM), 2021, POINT SIT SURV VACC
+   Agence nationale de securite du medicament et des produits de sante (ANSM) Agence nationale de securite du medicament et des produits de sante (ANSM) Agence nationale de securite du medicament et des produits de sante (ANSM) Agence nationale de securite du medicament et des produits de sante (ANSM), 2021, AV ANSM CONC 2 DOS V
+   Aley PK, 2021, SAFETY EFFICACY CHAD, V397, P99
+   American College of Obstetricians and Gynecologists (ACOG), 2020, VACC PREGN LACT PAT
+   Anderson EJ, 2020, NEW ENGL J MED, V383, P2427, DOI 10.1056/NEJMoa2028436
+   Bhosle SM, 2018, BIOMATERIALS, V1
+   Bhosle SM, 2011, NUCLEIC ACIDS RES, V39, P1595
+   Blanchard EL, 2019, MOL THER-NUCL ACIDS, V14, P52, DOI 10.1016/j.omtn.2018.11.002
+   Breathnach AS, 2021, J INFECTION, V82, pE11, DOI 10.1016/j.jinf.2021.01.005
+   CDC, 2021, INT CLIN CONS US MRN
+   CDC,, 2021, VACC CONS PEOPL WHO
+   Centre de Reference sur les Agents Teratogenes (CRAT) Centre de Reference sur les Agents Teratogenes (CRAT), 2021, CACC ARNM COV 19 GRO
+   Chodick G., 2021, EFFECTIVENESS 1 DOSE, DOI [10.1101/2021.01.27.21250612, DOI 10.1101/2021.01.27.21250612]
+   Claro I.M., 2021, GENOMIC CHARACTERISA
+   Corbett KS, 2020, NEW ENGL J MED, V383, P1544, DOI 10.1056/NEJMoa2024671
+   Dan JM, 2021, SCIENCE, V371, P587, DOI 10.1126/science.abf4063
+   De Befardinrs P, 2020, FRONT IMMUNOL, P21
+   Du L., 2020, INFECT DIS THER, V9, P1
+   Ebrallifill M, 2019, DAIRY VET SCI J, V11
+   Essink, 2021, NEW ENGL J MED, V184, P401
+   EVANS DIK, 1990, BRIT MED J, V300, P1694, DOI 10.1136/bmj.300.6741.1694-a
+   Fang Wang, 2019, JCI INSIGHT, V1, pE123
+   Folegatti PM, 2020, LANCET, V396, P467, DOI 10.1016/S0140-6736(20)31604-4
+   Fontanet A, 2020, NAT REV IMMUNOL, V20, P583, DOI 10.1038/s41577-020-00451-5
+   Giegoio E, 2021, P NATL ACAD SCI USA, V1
+   Halstead SR, ANTIBODY DEPENDENT E
+   Hanrath AT, 2020, J INFECT, DOI [10.1016/ijin12020.12.023, DOI 10.1016/IJIN12020.12.023]
+   Haute Autorite de sante (HAS) Haute Autorite de sante (HAS), 2020, STRATEGIC VACCINATIO
+   Haute Autorite de sante (HAS) Haute Autorite de sante (HAS), 2021, STRAT VACC SARS COV
+   Haute Autorite de sante (HAS) Haute Autorite de sante (HAS) Haute Autorite de sante (HAS) Haute Autorite de sante (HAS), 2021, MOD SCHEM VACC SARS
+   Herzog C, 2014, EXPERT REV VACCINES, V13, P399, DOI 10.1586/14760584.2014.883285
+   Institut national du cancer (InCA), 2021, PREC PRIOR PAT ATT C
+   Jackson LA, 2020, NEW ENGL J MED, V383, P1920, DOI 10.1056/NEJMoa2022483
+   Johnson WE, 2015, REV VIROL, V2
+   Krammer F., 2021, ROBUST SPIKE ANTIBOD, DOI [10.1101/2021.01.29.21250653, DOI 10.1101/2021.01.29.21250653]
+   ladlock TA, ETIOK GY DR RGNOSFS, VI, P93
+   LauElIsangHuiKwanChanChiu, 2021, NAT COMMUN, V12, P6
+   Lemarchand M, 2020, IND PHARM
+   Lemarchand M, 2021, IND PHARM
+   Logunov DY, 2021, LANCET, V397, P671, DOI 10.1016/S0140-6736(21)00234-8
+   Logunov DY, 2020, LANCET, V396, P887, DOI 10.1016/S0140-6736(20)31866-3
+   Long Quan-Xin, 2020, Nature Medicine, V26, DOI 10.1038/s41591-020-0965-6
+   Longini Pet OV, AD HOCEXPEII GUMP NE
+   Lumley SF, 2021, NEW ENGL J MED, V384, P533, DOI 10.1056/NEJMoa2034545
+   Ma ttachatsa S, 2010, J ADV PHARM TECHNOL, V1, P11
+   Mahase E, 2021, BMJ-BRIT MED J, V372, DOI 10.1136/bmj.n124
+   MARTINON F, 1993, EUR J IMMUNOL, V23, P1719, DOI 10.1002/eji.1830230749
+   Martiny A-kin BD, 1993, EURJ IMMUNOL VACCINE, V21, P19
+   Medicines and Healthcare Products Regulatory Agency Medicines and Healthcare Products Regulatory Agency, 2020, U ASTRAZENECA COV 19
+   Ministere des Solidarites et de la Sante Ministere des Solidarites et de la Sante Ministere des Solidarites et de la Sante Ministere des Solidarites et de la Sante, 2021, INT OL VER DEL VACC
+   Msomi N., 2020, MEDRXIV, DOI 10.1101/2020.12.21.20248640
+   Muik A, 2021, SCIENCE, V371, P1152, DOI 10.1126/science.abg6105
+   Mulligan MJ, 2020, NATURE, V586, P589, DOI 10.1038/s41586-020-2639-4
+   Munn I, TRENDS BIOTECHNOL, V2, P94
+   Nokleby H, 2006, CURR ALLERGY ASTHM R, V6, P9, DOI 10.1007/s11882-006-0003-x
+   Pauli N, NIT REV DRUG LISCOV, V17, P261
+   Planning VII, 2020, VACCINES VACCINE, V18, P6191
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Poletto, 2020, EVALUATION STRATEGIE
+   Qiu Y, 2010, SCAND J IMMUNOL, V72, P425, DOI 10.1111/j.1365-3083.2010.02456.x
+   Rambaut A., 2020, BIORXIV, DOI [DOI 10.1101/2020.04.17.046086, 10.1101/2020.04.17.046086]
+   ridhar ti, N ENGL MED
+   RiN P, 2017, J ALLERGY CLIN IMMUN, V16, P811
+   Saadat S, 2021, JAMA-J AM MED ASSOC, V325, P1467, DOI 10.1001/jama.2021.3341
+   Sabino EC, 2021, LANCET, V397, P452, DOI 10.1016/S0140-6736(21)00183-5
+   Shimabukuro TT, 2021, JAMA-J AM MED ASSOC, V325, P1101, DOI 10.1001/jama.2021.1967
+   Societe francaise d'allergologie (SFA) Societe francaise d'allergologie (SFA), 2021, VACC COVID 19
+   Societe francaise de rhumatologie (SFR) Societe francaise de rhumatologie (SFR) Societe francaise de rhumatologie (SFR) Societe francaise de rhumatologie (SFR), 2021, VACC COVID 19 PAT AT
+   SoniatChook MYM, 2015, BIOCHEMISTRY-US
+   van Doremalen N, 2020, NATURE, V586, P578, DOI 10.1038/s41586-020-2608-y
+   van Riel D, 2020, NAT MATER, V19, P810, DOI 10.1038/s41563-020-0746-0
+   Vogel AB., 2020, BIORXIV, DOI 10.1101/2020.09.08.280818.
+   Voysey M, 2021, SINGLE DOSE ADM INFL
+   Walsh EE, 2020, NEW ENGL J MED, V383, P2439, DOI 10.1056/NEJMoa2027906
+   Wang Zijun, 2021, Nature, V592, P616, DOI [10.1101/2021.01.15.426911, 10.1038/s41586-021-03324-6]
+   Widge AT, 2021, NEW ENGL J MED, V384, P80, DOI 10.1056/NEJMc2032195
+   Woolsey C, 2021, NAT IMMUNOL, V22, P86, DOI 10.1038/s41590-020-00835-8
+   World Health Organization, 2021, DRAFT LANDSC TRACK C
+   World Health Organization (WHO) World Health Organization (WHO), 2021, BNT162B2 WHO
+   Wu K, 2021, MRNA 1273 CACCINE IN, DOI 10,1101/2021,01.25.427948
+NR 81
+TC 4
+Z9 4
+U1 0
+U2 9
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 2666-9927
+EI 2666-9919
+J9 INFECT DIS NOW
+JI Infect. Dis. Now
+PD JUN
+PY 2021
+VL 51
+IS 4
+BP 319
+EP 333
+DI 10.1016/j.idnow.2021.02.007
+EA MAY 2021
+PG 15
+WC Infectious Diseases
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Infectious Diseases
+GA SE2AB
+UT WOS:000651874700001
+PM 33681861
+OA Bronze, Green Published
+DA 2022-05-16
+ER
+
+PT J
+AU Paul, E
+   Brown, GW
+   Kalk, A
+   Ridde, V
+AF Paul, Elisabeth
+   Brown, Garrett W.
+   Kalk, Andreas
+   Ridde, Valery
+TI Playing vaccine roulette: Why the current strategy of staking everything
+   on Covid-19 vaccines is a high-stakes wager
+SO VACCINE
+LA English
+DT Editorial Material
+ID SEROPREVALENCE; SAFETY
+C1 [Paul, Elisabeth] Univ Libre Bruxelles, Sch Publ Hlth, Campus Erasme,Route Lennik 808,CP 591, B-1070 Brussels, Belgium.
+   [Brown, Garrett W.] Univ Leeds, Global Hlth Theme, Leeds, W Yorkshire, England.
+   [Kalk, Andreas] Deutsch Gesell Int Zusammenarbeit, Kinshasa Country Off, Kinshasa, DEM REP CONGO.
+   [Ridde, Valery] Univ Paris, INSERM, Inst Rech Dev IRD, CEPED,IRD, Paris, France.
+RP Paul, E (corresponding author), Univ Libre Bruxelles, Sch Publ Hlth, Campus Erasme,Route Lennik 808,CP 591, B-1070 Brussels, Belgium.
+EM Elisabeth.Paul@ulb.be; G.W.Brown@leeds.ac.uk; andreas.kalk@giz.de;
+   valery.ridde@ird.fr
+OI Paul, Elisabeth/0000-0002-3928-4093; Ridde, Valery/0000-0001-9299-8266
+CR Al Kaabi N, 2021, JAMA-J AM MED ASSOC, V326, P35, DOI 10.1001/jama.2021.8565
+   [Anonymous], 2021, PHARMANEWS
+   Aschwanden C, 2021, NATURE, V591, P520, DOI 10.1038/d41586-021-00728-2
+   Associated Press, 2020, LOS ANGELES TIMES
+   Baden LR, 2021, NEW ENGL J MED, V384, P403, DOI 10.1056/NEJMoa2035389
+   Bavli I, 2020, BMJ-BRIT MED J, V371, DOI 10.1136/bmj.m4074
+   Cambon L, 2021, GLOB HEALTH PROMOT, V28, P3, DOI 10.1177/17579759211015129
+   Cardozo T, 2021, INT J CLIN PRACT, V75, DOI 10.1111/ijcp.13795
+   Collateral Global, REG PUBL AN GLOB IMP
+   Craig P, 2018, TAKING ACCOUNT CONTE, DOI 10.3310/CIHR-NIHR-01
+   Domingo E, 2021, J VIROL, V95, DOI 10.1128/JVI.02437-20
+   Doshi P., BMJ OPINION, V2021
+   Doshi P, 2020, BMJ-BRIT MED J, V371, DOI 10.1136/bmj.m4037
+   Flores LE, 2021, JAMA NETW OPEN, V4, DOI 10.1001/jamanetworkopen.2020.37640
+   Harrington DP, 2021, NEW ENGL J MED, V384, P576, DOI 10.1056/NEJMe2034294
+   He ZY, 2021, LANCET, V397, P1075, DOI 10.1016/S0140-6736(21)00238-5
+   Hill Andrew, 2021, Open Forum Infect Dis, V8, pofab358, DOI 10.1093/ofid/ofab358
+   Hipgrave DB, 2021, LANCET, V397, P1181, DOI 10.1016/S0140-6736(21)00442-6
+   IOANNIDIS JPA, 2021, B WORLD HEALTH ORGAN, V99, P19, DOI [10.1101/2020.05.13.20101253, DOI 10.2471/BLT.20.265892]
+   Jara A, 2021, NEW ENGL J MED, V385, P875, DOI 10.1056/NEJMoa2107715
+   Keehner J, 2021, NEW ENGL J MED, V384, P1774, DOI 10.1056/NEJMc2101927
+   Kostoff RN, 2020, TOXICOL REP, V7, P1448, DOI 10.1016/j.toxrep.2020.10.016
+   Lazarus JV, 2020, NAT MED, V26, P1005, DOI 10.1038/s41591-020-0950-0
+   Ledford H., NATURE, V591
+   Ledford H, 2021, NATURE, V594, P164, DOI 10.1038/d41586-021-01505-x
+   Ledford H, 2020, NATURE, V588, P205, DOI 10.1038/d41586-020-03441-8
+   Logunov DY, 2021, LANCET, V397, P671, DOI 10.1016/S0140-6736(21)00234-8
+   Madhi SA, 2021, NEW ENGL J MED, V384, P1885, DOI 10.1056/NEJMoa2102214
+   Mallapaty S., NATURE, V2021
+   Mallapaty S, 2021, NATURE, V590, P197, DOI 10.1038/d41586-021-00316-4
+   McCartney M, 2020, BMJ-BRIT MED J, V370, DOI 10.1136/bmj.m3473
+   Meltzer David O, 2020, medRxiv, DOI 10.1101/2020.05.08.20095893
+   Michel J, 2021, GLOBAL HEALTH ACTION, V14, DOI 10.1080/16549716.2021.1927315
+   Nelde A, 2021, NAT IMMUNOL, V22, P74, DOI 10.1038/s41590-020-00808-x
+   Neumann-Bohme S, 2020, EUR J HEALTH ECON, V21, P977, DOI 10.1007/s10198-020-01208-6
+   Paul E, 2020, INT J HEALTH POLICY, DOI 10.34172/ijhpm.2020.240
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Remmel A, 2021, NATURE, V590, P538, DOI 10.1038/d41586-021-00290-x
+   Rodriguez Mega E., NATURE, V2021
+   Sadoff J, 2021, NEW ENGL J MED, V384, P2187, DOI 10.1056/NEJMoa2101544
+   Shankar-Hari M, 2021, JAMA-J AM MED ASSOC, V326, P499, DOI 10.1001/jama.2021.11330
+   Soulier M, CLIN INFECT DIS PUBL, V2021
+   Sturmberg J.P., 2018, HLTH SYSTEM REDESIGN
+   Swinburn BA, 2019, LANCET, V393, P791, DOI 10.1016/S0140-6736(18)32822-8
+   Turcotte-Tremblay AM, 2021, BMC MED RES METHODOL, V21, DOI 10.1186/s12874-020-01200-x
+   Vaughn VM, 2021, JAMA NETW OPEN, V4, DOI 10.1001/jamanetworkopen.2021.11788
+   Voysey M, 2021, LANCET, V397, P99, DOI 10.1016/S0140-6736(20)32661-1
+   Whitmee S, 2015, LANCET, V386, P1973, DOI 10.1016/S0140-6736(15)60901-1
+   World Health Organization, VACC IMM
+   World Health Organization, 2021, ACC COVID 19 TOOLS F
+   Zhou H, NAT COMMUN, V12, P1724
+NR 51
+TC 3
+Z9 3
+U1 1
+U2 4
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-410X
+EI 1873-2518
+J9 VACCINE
+JI Vaccine
+PD AUG 16
+PY 2021
+VL 39
+IS 35
+BP 4921
+EP 4924
+DI 10.1016/j.vaccine.2021.07.045
+EA AUG 2021
+PG 4
+WC Immunology; Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Immunology; Research & Experimental Medicine
+GA TX3GY
+UT WOS:000682979100001
+PM 34315610
+OA Bronze, Green Published
+DA 2022-05-16
+ER
+
+PT J
+AU Bin Lee, ARY
+   Wong, SY
+   Chai, LYA
+   Lee, SC
+   Lee, MX
+   Muthiah, MD
+   Tay, SH
+   Teo, CB
+   Tan, BKJ
+   Chan, YH
+   Sundar, R
+   Soon, YY
+AF Bin Lee, Ainsley Ryan Yan
+   Wong, Shi Yin
+   Chai, Louis Yi Ann
+   Lee, Soo Chin
+   Lee, Matilda Xinwei
+   Muthiah, Mark Dhinesh
+   Tay, Sen Hee
+   Teo, Chong Boon
+   Tan, Benjamin Kye Jyn
+   Chan, Yiong Huak
+   Sundar, Raghav
+   Soon, Yu Yang
+TI Efficacy of covid-19 vaccines in immunocompromised patients: systematic
+   review and meta-analysis
+SO BMJ-BRITISH MEDICAL JOURNAL
+LA English
+DT Review
+ID RENAL-TRANSPLANT RECIPIENTS; MESSENGER-RNA VACCINE; INFLUENZA
+   VACCINATION; SARS-COV-2 VACCINATION; BNT162B2 VACCINATION; HUMORAL
+   RESPONSE; PUBLICATION BIAS; IMMUNE-RESPONSE; ANTIBODY; HIV
+AB OBJECTIVE
+   To compare the efficacy of covid-19 vaccines between immunocompromised and immunocompetent people.
+   DESIGN
+   Systematic review and meta-analysis.
+   DATA SOURCES
+   PubMed, Embase, Central Register of Controlled Trials, COVID-19 Open Research Dataset Challenge (CORD-19), and WHO covid-19 databases for studies published between 1 December 2020 and 5 November 2021. ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform were searched in November 2021 to identify registered but as yet unpublished or ongoing studies.
+   STUDY SELECTION
+   Prospective observational studies comparing the efficacy of covid-19 vaccination in immunocompromised and immunocompetent participants.
+   METHODS
+   A frequentist random effects meta-analysis was used to separately pool relative and absolute risks of seroconversion after the first and second doses of a covid-19 vaccine. Systematic review without meta-analysis of SARS-CoV-2 antibody titre levels was performed after first, second, and third vaccine doses and the seroconversion rate after a third dose. Risk of bias and certainty of evidence were assessed.
+   RESULTS
+   82 studies were included in the meta-analysis. Of these studies, 77 (94%) used mRNA vaccines, 16 (20%) viral vector vaccines, and 4 (5%) inactivated whole virus vaccines. 63 studies were assessed to be at low risk of bias and 19 at moderate risk of bias. After one vaccine dose, seroconversion was about half as likely in patients with haematological cancers (risk ratio 0.40, 95% confidence interval 0.32 to 0.50, I-2=80%; absolute risk 0.29, 95% confidence interval 0.20 to 0.40, I-2=89%), immune mediated inflammatory disorders (0.53, 0.39 to 0.71, I-2=89%; 0.29, 0.11 to 0.58, I-2=97%), and solid cancers (0.55, 0.46 to 0.65, I-2=78%; 0.44, 0.36 to 0.53, I-2=84%) compared with immunocompetent controls, whereas organ transplant recipients were 16 times less likely to seroconvert (0.06, 0.04 to 0.09, I-2=0%; 0.06, 0.04 to 0.08, I-2=0%). After a second dose, seroconversion remained least likely in transplant recipients (0.39, 0.32 to 0.46, I-2=92%; 0.35, 0.26 to 0.46), with only a third achieving seroconversion. Seroconversion was increasingly likely in patients with haematological cancers (0.63, 0.57 to 0.69, I-2=88%; 0.62, 0.54 to 0.70, I-2=90%), immune mediated inflammatory disorders (0.75, 0.69 to 0.82, I-2=92%; 0.77, 0.66 to 0.85, I-2=93%), and solid cancers (0.90, 0.88 to 0.93, I-2=51%; 0.89, 0.86 to 0.91, I-2=49%). Seroconversion was similar between people with HIV and immunocompetent controls (1.00, 0.98 to 1.01, I-2=0%; 0.97, 0.83 to 1.00, I-2=89%). Systematic review of 11 studies showed that a third dose of a covid-19 mRNA vaccine was associated with seroconversion among vaccine non-responders with solid cancers, haematological cancers, and immune mediated inflammatory disorders, although response was variable in transplant recipients and inadequately studied in people with HIV and those receiving nonmRNA vaccines.
+   CONCLUSION
+   Seroconversion rates after covid-19 vaccination were significantly lower in immunocompromised patients, especially organ transplant recipients. A second dose was associated with consistently improved seroconversion across all patient groups, albeit at a lower magnitude for organ transplant recipients. Targeted interventions for immunocompromised patients, including a third (booster) dose, should be performed.
+C1 [Bin Lee, Ainsley Ryan Yan; Wong, Shi Yin; Teo, Chong Boon; Tan, Benjamin Kye Jyn] Natl Univ Singapore, Yong Loo Lin Sch Med, Singapore, Singapore.
+   [Chai, Louis Yi Ann] Natl Univ Hlth Syst, Div Infect Dis, Singapore, Singapore.
+   [Chai, Louis Yi Ann; Sundar, Raghav; Soon, Yu Yang] Natl Univ Singapore, Dept Med, Yong Loo Lin Sch Med, Singapore, Singapore.
+   [Chai, Louis Yi Ann] Natl Univ Singapore, Synthet Biol Clin & Technol Innovat, Singapore, Singapore.
+   [Chai, Louis Yi Ann] Natl Univ Canc Inst, Singapore, Singapore.
+   [Lee, Soo Chin; Lee, Matilda Xinwei; Sundar, Raghav] Natl Univ Singapore Hosp, Natl Univ Canc Inst, Dept Haematol Oncol, Singapore 119228, Singapore.
+   [Lee, Soo Chin] Natl Univ Singapore, Canc Sci Inst Singapore, Singapore, Singapore.
+   [Muthiah, Mark Dhinesh] Natl Univ Hlth Syst, Dept Gastroenterol & ITepatol, Singapore, Singapore.
+   [Muthiah, Mark Dhinesh] Natl Univ, Ctr Organ Transplantat, Singapore, Singapore.
+   [Tay, Sen Hee] Natl Univ Singapore Hosp, Dept Med, Div Rheumatol, Singapore, Singapore.
+   [Chan, Yiong Huak] Natl Univ Singapore, Yong Loo Lin Sch Med, Biostat Unit, Singapore, Singapore.
+   [Sundar, Raghav] Duke NUS Med Sch, Canc & Stem Cell Biol Program, Singapore, Singapore.
+   [Sundar, Raghav] Natl Univ Singapore, N1 Inst Hlth, Singapore, Singapore.
+   [Sundar, Raghav] Singapore Gastr Canc Consortium, Singapore, Singapore.
+   [Soon, Yu Yang] Natl Univ Canc Inst, Dept Radiat Oncol, Singapore, Singapore.
+RP Sundar, R (corresponding author), Natl Univ Singapore, Dept Med, Yong Loo Lin Sch Med, Singapore, Singapore.; Sundar, R (corresponding author), Natl Univ Singapore Hosp, Natl Univ Canc Inst, Dept Haematol Oncol, Singapore 119228, Singapore.; Sundar, R (corresponding author), Duke NUS Med Sch, Canc & Stem Cell Biol Program, Singapore, Singapore.; Sundar, R (corresponding author), Natl Univ Singapore, N1 Inst Hlth, Singapore, Singapore.; Sundar, R (corresponding author), Singapore Gastr Canc Consortium, Singapore, Singapore.
+EM mdcragh@nus.edu.sg
+OI Tan, Benjamin Kye Jyn/0000-0002-9411-6164
+CR Achiron A, 2021, J NEUROIMMUNOL, V361, DOI 10.1016/j.jneuroim.2021.577746
+   Achiron A, 2021, THER ADV NEUROL DISO, V14, DOI 10.1177/17562864211012835
+   Agbarya A, 2021, CANCERS, V13, DOI 10.3390/cancers13164191
+   Al Samaraee A, 2020, BRIT J HOSP MED, V81, DOI 10.12968/hmed.2020.0191
+   Ali A, 2021, VACCINE, V39, P6111, DOI 10.1016/j.vaccine.2021.08.078
+   Ali MAM, 2021, TRENDS CARDIOVAS MED, V31, P143, DOI 10.1016/j.tcm.2020.12.004
+   American Society of Transplantation International Society for Heart and Lung Transplantation, 2021, JOINT STAT VACC EFF
+   Anema A, 2008, HIV MED, V9, P57, DOI 10.1111/j.1468-1293.2008.00515.x
+   Apostolidis SA, 2021, NAT MED, V27, P1990, DOI 10.1038/s41591-021-01507-2
+   Barriere J, 2021, ANN ONCOL, V32, P1053, DOI 10.1016/j.annonc.2021.04.019
+   Beck CR, 2012, J INFECT DIS, V206, P1250, DOI 10.1093/infdis/jis487
+   Benotmane I, 2021, JAMA-J AM MED ASSOC, V326, P1063, DOI 10.1001/jama.2021.12339
+   Berlin DA, 2020, NEW ENGL J MED, V383, P2451, DOI 10.1056/NEJMcp2009575
+   Bertrand D, 2021, KIDNEY INT, V100, P1337, DOI 10.1016/j.kint.2021.09.014
+   Bitoun S, 2021, J HEMATOL ONCOL, V14, DOI 10.1186/s13045-021-01183-2
+   Boekel L, 2021, LANCET RHEUMATOL, V3, pE778, DOI 10.1016/S2665-9913(21)00222-8
+   Canti L, 2021, J HEMATOL ONCOL, V14, DOI 10.1186/s13045-021-01190-3
+   Catherine FX, 2017, HUM VACC IMMUNOTHER, V13, P1304, DOI 10.1080/21645515.2016.1277844
+   Centers for Disease Control and Prevention, COV 19 VACC MOD SEV
+   Chavarot N, 2021, AM J TRANSPLANT, V21, P4043, DOI 10.1111/ajt.16814
+   Chong PP, 2018, CLIN INFECT DIS, V66, P1802, DOI 10.1093/cid/cix1081
+   Chowdhury O, 2021, BRIT J HAEMATOL, V194, P1010, DOI 10.1111/bjh.17644
+   Couch Robert B., 1997, American Journal of Medicine, V102, P2, DOI 10.1016/S0002-9343(97)00003-X
+   Crespo M, 2022, AM J TRANSPLANT, V22, P786, DOI 10.1111/ajt.16854
+   Curtis JR, 2021, ARTHRITIS RHEUMATOL, V73, pE60, DOI 10.1002/art.41928
+   D'Offizi G, 2022, LIVER INT, V42, P180, DOI 10.1111/liv.15089
+   Danthu C, 2021, J AM SOC NEPHROL, V32, P2154, DOI 10.1681/ASN.2021040490
+   Debska-Slizien A, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9101165
+   Deepak P, 2021, ANN INTERN MED, V174, P1572, DOI 10.7326/M21-1757
+   Del Bello A, 2022, AM J TRANSPLANT, V22, P322, DOI 10.1111/ajt.16775
+   Di Noia V, 2021, CLIN CANCER RES, V27, P6815, DOI 10.1158/1078-0432.CCR-21-2439
+   Doria-Rose N, 2021, NEW ENGL J MED, V384, P2259, DOI 10.1056/NEJMc2103916
+   Duval S, 2000, BIOMETRICS, V56, P455, DOI 10.1111/j.0006-341X.2000.00455.x
+   Earle KA, 2021, VACCINE, V39, P4423, DOI 10.1016/j.vaccine.2021.05.063
+   Egger M, 1997, BMJ-BRIT MED J, V315, P629, DOI 10.1136/bmj.315.7109.629
+   Eliakim-Raz N, 2021, JAMA ONCOL, V7, P1716, DOI 10.1001/jamaoncol.2021.4390
+   Fan YJ, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9090989
+   Fathizadeh H, 2021, INT J BIOL MACROMOL, V188, P740, DOI 10.1016/j.ijbiomac.2021.08.076
+   Furer V, 2021, ANN RHEUM DIS, V80, P1330, DOI 10.1136/annrheumdis-2021-220647
+   Garcia-Beltran WF, 2021, CELL, V184, P476, DOI 10.1016/j.cell.2020.12.015
+   Gavriatopoulou M, 2021, BLOOD ADV, V5, P4398, DOI 10.1182/bloodadvances.2021005444
+   Gavriatopoulou M, 2021, CLIN EXP MED, DOI 10.1007/s10238-021-00746-4
+   Geisen UM, 2021, ANN RHEUM DIS, V80, P1306, DOI 10.1136/annrheumdis-2021-220272
+   Ghione P, 2021, BLOOD, V138, P811, DOI 10.1182/blood.2021012443
+   Goshen-Lago T, 2021, JAMA ONCOL, V7, P1507, DOI 10.1001/jamaoncol.2021.2675
+   Greenberger LM, 2021, CANCER CELL, V39, P1297, DOI 10.1016/j.ccell.2021.09.001
+   Grinshpun A, 2021, ESMO OPEN, V6, DOI 10.1016/j.esmoop.2021.100283
+   Grupper A, 2021, CLIN TRANSPLANT, V35, DOI 10.1111/ctr.14478
+   Grupper A, 2021, AM J TRANSPLANT, V21, P2719, DOI 10.1111/ajt.16615
+   Guyatt GH, 2008, BRIT MED J, V336, P924, DOI 10.1136/bmj.39489.470347.AD
+   Haberman RH, 2021, ANN RHEUM DIS, V80, P1339, DOI 10.1136/annrheumdis-2021-220597
+   Hagin D, 2021, J ALLERGY CLIN IMMUN, V148, P739, DOI 10.1016/j.jaci.2021.05.029
+   Hall VG, 2021, NEW ENGL J MED, V385, P1244, DOI 10.1056/NEJMc2111462
+   Herishanu Y, 2021, BLOOD, V137, P3165, DOI 10.1182/blood.2021011568
+   Tzarfati KH, 2021, AM J HEMATOL, V96, P1195, DOI 10.1002/ajh.26284
+   Higgins JPT, 2002, STAT MED, V21, P1539, DOI 10.1002/sim.1186
+   Hod T, 2021, TRANSPLANTATION, V105, pE234, DOI 10.1097/TP.0000000000003889
+   Iacono D, 2021, J GERIATR ONCOL, V12, P1253, DOI 10.1016/j.jgo.2021.06.002
+   Izmirly PM, 2022, ARTHRITIS RHEUMATOL, V74, P284, DOI 10.1002/art.41937
+   Jedicke N, 2022, HIV MED, V23, P558, DOI 10.1111/hiv.13202
+   Jin PF, 2021, SIGNAL TRANSDUCT TAR, V6, DOI 10.1038/s41392-021-00481-y
+   Kantauskaite M, 2022, AM J TRANSPLANT, V22, P634, DOI 10.1111/ajt.16851
+   Kennedy NA, 2021, GUT, V70, P1884, DOI 10.1136/gutjnl-2021-324789
+   Khoury DS, 2021, NAT MED, V27, P1205, DOI 10.1038/s41591-021-01377-8
+   Korth J, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13050756
+   Lee JH, 2020, VACCINE, V38, P3995, DOI 10.1016/j.vaccine.2020.04.022
+   Levy I, 2021, CLIN MICROBIOL INFEC, V27, P1851, DOI 10.1016/j.cmi.2021.07.031
+   Ligumsky H, 2022, JNCI-J NATL CANCER I, V114, P203, DOI 10.1093/jnci/djab174
+   Lim SH, 2021, LANCET HAEMATOL, V8, pE542, DOI 10.1016/S2352-3026(21)00199-X
+   Linardou H, 2021, CANCERS, V13, DOI 10.3390/cancers13184621
+   Lindemann M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9101075
+   Liontos M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9101148
+   Liontos M, 2022, PROSTATE CANCER P D, V25, P117, DOI 10.1038/s41391-021-00455-9
+   Livingston Edward H, 2021, JAMA, V325, P898, DOI 10.1001/jama.2021.1375
+   Madan A, 2020, CANCER MED-US, V9, P9205, DOI 10.1002/cam4.3534
+   Madhi SA, 2021, LANCET HIV, V8, pE568, DOI 10.1016/S2352-3018(21)00157-0
+   Mahil SK, 2021, LANCET RHEUMATOL, V3, pE627, DOI 10.1016/S2665-9913(21)00212-5
+   Malard F, 2021, BLOOD CANCER J, V11, DOI 10.1038/s41408-021-00534-z
+   Manuel O, 2019, CLIN TRANSPLANT, V33, DOI 10.1111/ctr.13511
+   Marasco V, 2022, BRIT J HAEMATOL, V196, P548, DOI 10.1111/bjh.17877
+   Marinaki S, 2021, AM J TRANSPLANT, V21, P2913, DOI 10.1111/ajt.16607
+   Massarweh A, 2021, JAMA ONCOL, V7, P1133, DOI 10.1001/jamaoncol.2021.2155
+   Mazzola A, 2022, CLIN INFECT DIS, V74, P1093, DOI 10.1093/cid/ciab580
+   McInnes IB, 2021, NAT REV IMMUNOL, V21, P680, DOI 10.1038/s41577-021-00603-1
+   Medeiros-Ribeiro AC, 2021, NAT MED, V27, P1744, DOI 10.1038/s41591-021-01469-5
+   Miele M, 2021, AM J TRANSPLANT, V21, P2919, DOI 10.1111/ajt.16702
+   Mohammed AH, 2020, AIDS REV, V22, P151, DOI 10.24875/AIDSRev.20000052
+   Monin L, 2021, LANCET ONCOL, V22, P765, DOI 10.1016/S1470-2045(21)00213-8
+   Mrak D, 2021, ANN RHEUM DIS, V80, P1345, DOI 10.1136/annrheumdis-2021-220781
+   Narasimhan M, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9070708
+   Page MJ, 2021, PLOS MED, V18, DOI [10.1371/journal.pmed.1003583, 10.1016/j.ijsu.2021.105906]
+   Palich R, 2021, Ann Oncol, V32, P1294, DOI 10.1016/j.annonc.2021.06.018
+   Palich R, 2021, ANN ONCOL, V32, P1051, DOI 10.1016/j.annonc.2021.04.020
+   Parry H, 2021, BLOOD CANCER J, V11, DOI 10.1038/s41408-021-00528-x
+   Peeters M, 2021, ESMO OPEN, V6, DOI 10.1016/j.esmoop.2021.100274
+   Peled Y, 2022, J HEART LUNG TRANSPL, V41, P148, DOI 10.1016/j.healun.2021.08.010
+   Peled Y, 2021, J HEART LUNG TRANSPL, V40, P759, DOI 10.1016/j.healun.2021.04.003
+   Pereira MR, 2020, AM J TRANSPLANT, V20, P1800, DOI 10.1111/ajt.15941
+   Peters JL, 2007, STAT MED, V26, P4544, DOI 10.1002/sim.2889
+   Pimpinelli F, 2021, J HEMATOL ONCOL, V14, DOI 10.1186/s13045-021-01090-6
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Pregliasco F, 1996, VACCINE, V14, P267, DOI 10.1016/0264-410X(95)00209-J
+   Prendecki M, 2021, LANCET, V398, P1482, DOI 10.1016/S0140-6736(21)02096-1
+   Prendecki M, 2021, ANN RHEUM DIS, V80, P1322, DOI 10.1136/annrheumdis-2021-220626
+   Rabinowich L, 2021, J HEPATOL, V75, P435, DOI 10.1016/j.jhep.2021.04.020
+   Rahav G, 2021, ECLINICALMEDICINE, V41, DOI 10.1016/j.eclinm.2021.101158
+   Rashidi-Alavijeh J, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9070738
+   Reuken PA, 2022, J CROHNS COLITIS, V16, P251, DOI 10.1093/ecco-jcc/jjab147
+   Rincon-Arevalo H, 2021, SCI IMMUNOL, V6, DOI 10.1126/sciimmunol.abj1031
+   Roifman CM, 2021, LYMPHOSIGN J, V8, P37, DOI 10.14785//lymphosign-2021-0020
+   Rubbert-Roth A, 2021, LANCET RHEUMATOL, V3, pE470, DOI 10.1016/S2665-9913(21)00186-7
+   Ruether DF, 2022, CLIN GASTROENTEROL H, V20, P162, DOI 10.1016/j.cgh.2021.09.003
+   Sattler A, 2021, J CLIN INVEST, V131, DOI 10.1172/JCI150175
+   Schmidt T, 2021, AM J TRANSPLANT, V21, P3990, DOI 10.1111/ajt.16818
+   Schmiedeberg K, 2022, LANCET RHEUMATOL, V4, pE11, DOI 10.1016/S2665-9913(21)00328-3
+   Schramm R, 2021, CLIN RES CARDIOL, V110, P1142, DOI 10.1007/s00392-021-01880-5
+   Schrezenmeier E, 2021, J AM SOC NEPHROL, V32, P3027, DOI 10.1681/ASN.2021070966
+   Seyahi E, 2021, RHEUMATOL INT, V41, P1429, DOI 10.1007/s00296-021-04910-7
+   Shem-Tov N, 2022, BRIT J HAEMATOL, V196, P884, DOI 10.1111/bjh.17918
+   Sherman AC, 2021, CLIN INFECT DIS, DOI 10.1093/cid/ciab930
+   Shinjo SK, 2021, RHEUMATOLOGY, DOI 10.1093/rheumatology/keab773
+   Shmueli ES, 2021, EUR J CANCER, V157, P124, DOI 10.1016/j.ejca.2021.08.007
+   Shroff RT, 2021, NAT MED, V27, P2002, DOI 10.1038/s41591-021-01542-z
+   Silva-Cayetano A, 2021, MED-CAMBRIDGE, V2, P243, DOI 10.1016/j.medj.2020.12.006
+   Simon D, 2021, ANN RHEUM DIS, V80, P1312, DOI 10.1136/annrheumdis-2021-220461
+   Ssentongo P, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-85359-3
+   Stampfer SD, 2021, LEUKEMIA, V35, P3534, DOI 10.1038/s41375-021-01354-7
+   Sterne JAC, 2019, BMJ-BRIT MED J, V366, DOI 10.1136/bmj.l4898
+   Sterne JAC, 2016, BMJ-BRIT MED J, V355, DOI 10.1136/bmj.i4919
+   Stumpf J, 2021, LANCET REG HEALTH-EU, V9, DOI 10.1016/j.lanepe.2021.100178
+   Terpos E, 2021, CANCERS, V13, DOI 10.3390/cancers13174480
+   Terpos E, 2021, J HEMATOL ONCOL, V14, DOI 10.1186/s13045-021-01099-x
+   US Food and Drug Administration, 2021, COR COVID 19 UPD FDA
+   Voysey M, 2021, LANCET, V397, P99, DOI 10.1016/S0140-6736(20)32661-1
+   Westhoff TH, 2021, KIDNEY INT, V100, P1135, DOI 10.1016/j.kint.2021.09.001
+   Westra J, 2014, CLIN EXP IMMUNOL, V178, P40, DOI 10.1111/cei.12390
+   Wise J, 2021, BMJ-BRIT MED J, V374, DOI 10.1136/bmj.n2160
+   Woldemeskel BA, 2022, CLIN INFECT DIS, V74, P1268, DOI 10.1093/cid/ciab648
+   Wong SY, 2021, GASTROENTEROLOGY, V161, P715, DOI 10.1053/j.gastro.2021.04.025
+   Yi Stephanie G, 2021, Transplantation, V105, pe72, DOI 10.1097/TP.0000000000003764
+   Zagouri F, 2021, BREAST, V60, P58, DOI 10.1016/j.breast.2021.08.017
+   Zbinden D, 2014, IMMUNOTHERAPY-UK, V6, P131, DOI [10.2217/IMT.13.171, 10.2217/imt.13.171]
+   Zhao JJ, 2020, CLIN INFECT DIS, V71, P2027, DOI 10.1093/cid/ciaa344
+NR 143
+TC 3
+Z9 3
+U1 1
+U2 1
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+EI 1756-1833
+J9 BMJ-BRIT MED J
+JI BMJ-British Medical Journal
+PD MAR 2
+PY 2022
+VL 376
+AR e068632
+DI 10.1136/bmj-2021-068632
+PG 16
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA ZX8XR
+UT WOS:000772178100006
+PM 35236664
+OA Green Published, Green Submitted, hybrid
+DA 2022-05-16
+ER
+

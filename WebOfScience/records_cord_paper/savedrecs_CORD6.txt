@@ -1,0 +1,98 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kwok, HF
+AF Kwok, Hang Fai
+TI Review of Covid-19 vaccine clinical trials ? A puzzle with missing
+   pieces
+SO INTERNATIONAL JOURNAL OF BIOLOGICAL SCIENCES
+LA English
+DT Review
+DE SARS-CoV-2; Pandemic; Vaccination; Different subgroups; Viral Variants
+AB A year after the initial outbreak of Covid-19 pandemic, several Phase III clinical trials investigating vaccine safety and efficacy have been published. These vaccine candidates were developed by different research groups and pharmaceutical companies with various vaccine technologies including mRNA, recombinant protein, adenoviral vector and inactivated virus-based platforms. Despite numerous successful clinical trials, participants enrolled in these trials are limited by trial inclusion and exclusion criteria, geographic location and viral outbreak situation. Many questions still remain, especially for specific subgroups, including the elderly, females with pregnancy and breastfeeding status, and adolescents. At the same time, vaccine efficacy towards asymptomatic infection and specific viral variants are still largely unknown. This review will cover vaccine candidates with Phase III clinical trial data released and discuss the scientific data available so far for these vaccine candidates for different subgroups of people and different viral variants.
+C1 [Kwok, Hang Fai] Univ Macau, Fac Hlth Sci, Inst Translat Med, Ave Univ, Taipa, Macau, Peoples R China.
+RP Kwok, HF (corresponding author), Univ Macau, Fac Hlth Sci, Inst Translat Med, Ave Univ, Taipa, Macau, Peoples R China.
+EM hfkwok@um.edu.mo
+FU Faculty of Health Sciences (FHS) University of Macau (UM) Faculty
+   Allocated Fund (FAF); Science and Technology Development Fund of Macau
+   SAR (FDCT) [0055/2019/A1]
+FX This study was supported by the Faculty of Health Sciences (FHS)
+   University of Macau (UM) Faculty Allocated Fund (FAF) and the Science
+   and Technology Development Fund of Macau SAR (FDCT) [0055/2019/A1] to
+   HFK. The author thanks Dr. HiuFung Yuen, Prof. Gillian Murphy and Mr.
+   Muhammad Jameel Mughal for their critical comments and suggestions on
+   the manuscript
+CR Anderson EJ, 2020, NEW ENGL J MED, V383, P2427, DOI 10.1056/NEJMoa2028436
+   Baden LR, 2021, NEW ENGL J MED, V384, P403, DOI 10.1056/NEJMoa2035389
+   Barrett JR, 2021, NAT MED, V27, P279, DOI 10.1038/s41591-020-01179-4
+   Caddy S, 2020, BMJ-BRIT MED J, V369, DOI 10.1136/bmj.m1790
+   Callaway E, 2020, NATURE, V580, P576, DOI 10.1038/d41586-020-01221-y
+   Ciabattini A, 2020, SEMIN IMMUNOPATHOL, V42, P619, DOI 10.1007/s00281-020-00821-0
+   Cooper DM, 2021, PEDIATR RES, V90, P966, DOI 10.1038/s41390-021-01402-z
+   Corbett KS, 2020, NEW ENGL J MED, V383, P1544, DOI 10.1056/NEJMoa2024671
+   De Kock JH, 2021, BMC PUBLIC HEALTH, V21, DOI 10.1186/s12889-020-10070-3
+   Folegatti PM, 2020, LANCET, V396, P467, DOI 10.1016/S0140-6736(20)31604-4
+   Forni G, 2021, CELL DEATH DIFFER, V28, P626, DOI 10.1038/s41418-020-00720-9
+   Graham SP, 2020, NPJ VACCINES, V5, DOI 10.1038/s41541-020-00221-3
+   Grolli RE, 2021, MOL NEUROBIOL, V58, P1905, DOI 10.1007/s12035-020-02249-x
+   Guebre-Xabier M, 2020, VACCINE, V38, P7892, DOI 10.1016/j.vaccine.2020.10.064
+   Haynes BF, 2020, SCI TRANSL MED, V12, DOI 10.1126/scitranslmed.abe0948
+   Hodgson SH, 2021, LANCET INFECT DIS, V21, pE26, DOI 10.1016/S1473-3099(20)30773-8
+   Jackson LA, 2020, NEW ENGL J MED, V383, P1920, DOI 10.1056/NEJMoa2022483
+   Keech C, 2020, NEW ENGL J MED, V383, P2320, DOI 10.1056/NEJMoa2026920
+   Klein SL, 2021, J CLIN INVEST, V131, DOI 10.1172/JCI147553
+   Ledford H, 2020, NATURE, V588, P377, DOI 10.1038/d41586-020-03542-4
+   Lurie N, 2020, NEW ENGL J MED, V382, P1969, DOI 10.1056/NEJMp2005630
+   Mellet J, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9010039
+   Muik A, 2021, SCIENCE, V371, P1152, DOI 10.1126/science.abg6105
+   Mukaetova-Ladinska EB, 2021, EUR ARCH PSY CLIN N, V271, P235, DOI 10.1007/s00406-020-01210-2
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Poland GA, 2020, LANCET, V396, P1595, DOI 10.1016/S0140-6736(20)32137-1
+   Ramasamy MN, 2020, LANCET, V396, P1979, DOI 10.1016/S0140-6736(20)32466-1
+   Sadoff J, 2021, NEW ENGL J MED, V384, P1824, DOI 10.1056/NEJMoa2034201
+   Stamu-O'Brien C, 2020, J COSMET DERMATOL-US, V19, P2169, DOI 10.1111/jocd.13601
+   Tian JH, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-020-20653-8
+   Tumban E, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13010054
+   van Doremalen Neeltje, 2021, bioRxiv, DOI 10.1101/2021.01.09.426058
+   van Doremalen Neeltje, 2020, bioRxiv, DOI 10.1101/2020.05.13.093195
+   van Riel D, 2020, NAT MATER, V19, P810, DOI 10.1038/s41563-020-0746-0
+   Voysey M, 2021, LANCET, V397, P99, DOI 10.1016/S0140-6736(20)32661-1
+   Walsh EE, 2020, NEW ENGL J MED, V383, P2439, DOI 10.1056/NEJMoa2027906
+   Wang PF, 2021, NATURE, V593, P130, DOI [10.1038/s41586-021-03398-2, 10.1101/2021.01.25.428137]
+   Wang Zijun, 2021, Nature, V592, P616, DOI [10.1101/2021.01.15.426911, 10.1038/s41586-021-03324-6]
+   Warren RC, 2020, NEW ENGL J MED, V383, DOI 10.1056/NEJMp2030033
+   Widge AT, 2021, NEW ENGL J MED, V384, P80, DOI 10.1056/NEJMc2032195
+   World Health Organization, DRAFT LANDSC COVID 1
+   Wu Kai, 2021, bioRxiv, DOI 10.1101/2021.01.25.427948
+   Xie Xuping, 2021, bioRxiv, DOI 10.1101/2021.01.07.425740
+   Zhang YJ, 2021, LANCET INFECT DIS, V21, P181, DOI 10.1016/S1473-3099(20)30843-4
+NR 44
+TC 8
+Z9 9
+U1 3
+U2 4
+PU IVYSPRING INT PUBL
+PI LAKE HAVEN
+PA PO BOX 4546, LAKE HAVEN, NSW 2263, AUSTRALIA
+SN 1449-2288
+J9 INT J BIOL SCI
+JI Int. J. Biol. Sci.
+PY 2021
+VL 17
+IS 6
+BP 1461
+EP 1468
+DI 10.7150/ijbs.59170
+PG 8
+WC Biochemistry & Molecular Biology; Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Life Sciences & Biomedicine - Other
+   Topics
+GA US7KP
+UT WOS:000697605800004
+PM 33907509
+OA gold, Green Published
+DA 2022-05-16
+ER
+
+EF

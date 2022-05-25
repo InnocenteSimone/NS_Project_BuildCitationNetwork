@@ -1,0 +1,114 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Nadimuthu, LPR
+   Victor, K
+AF Nadimuthu, Lalith Pankaj Raj
+   Victor, Kirubakaran
+TI Environmental friendly micro cold storage for last-mile Covid-19 vaccine
+   logistics
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Covid-19 vaccine; Last-mile vaccine logistics; Micro cold storage; Solar
+   photovoltaics; Climate change mitigation; Carbon emission reduction
+ID COOLER; ENERGY
+AB Globally, vaccination plays a vital role in controlling the Covid-19 pandemic. However, the cold supply chain is essential for vaccine storage and logistics services. In a country like India, the last-mile logistics of vaccines is a challenging task. The cold chain is indispensable for the Covid-19 vaccine drive to the rural areas. The demand for cold storage increases rapidly due to the rapid Covid-19 vaccine drive. The conventional cold storage facility has a more significant threat to the grid power quality and environmental impacts. The energy demand and greenhouse gas emission of traditional cold storage lead to global warming. The micro cold storage facility has to be developed rapidly to accelerate the vaccine drive to the last mile of the county with reliable and affordable energy sources. In addition, climate change mitigation is ensured by the renewable energy utilization in the Covid-19 vaccine drive. The proposed novel micro cold storage aims to be silent, clean, mobile, without moving parts, and reliable for the last-mile vaccine logistics as a vaccine carrier to the remote rural areas. This paper deals with the novel design, development, and experimental investigation of solar photovoltaic powered thermoelectric-based micro cold storage as a Covid-19 vaccine carrier for rural areas. The design consideration of Covid-19 vaccine storage has been reported. The experimental results ensure the World Health Organization recommended vaccine storage (i.e., vaccine carrier) temperature range of +2 to +8 degrees C. Therefore, green energy and refrigeration system provide environmental sustainability by mitigating 700kg of annual carbon emission.
+C1 [Nadimuthu, Lalith Pankaj Raj; Victor, Kirubakaran] Gandhigram Rural Inst Deemed Univ, Ctr Rural Energy, Gandhigram 624302, Tamil Nadu, India.
+RP Nadimuthu, LPR (corresponding author), Gandhigram Rural Inst Deemed Univ, Ctr Rural Energy, Gandhigram 624302, Tamil Nadu, India.
+EM lpraj1995@gmail.com
+RI Nadimuthu, Lalith Pankaj Raj/ABA-6826-2020; V, Kirubakaran/AAA-3938-2020
+OI Nadimuthu, Lalith Pankaj Raj/0000-0002-0387-4120; V,
+   Kirubakaran/0000-0001-7160-4758
+FU Department of Science and Technology (DST), Government of India
+   [IF180435]; All India Council for Technical Education (AICTE)
+   [9-41/RIFD/MODROB/Policy-1/2017-18]
+FX The authors gratefully acknowledge the Department of Science and
+   Technology (DST), Government of India, for support under the DST-INSPIRE
+   Fellowship Scheme (ID No: IF180435). Also, acknowledge the funding
+   received from the All India Council for Technical Education (AICTE)
+   under the Modernization and Removal of Obsolescence (MODROBS) scheme
+   (AICTE File No. 9-41/RIFD/MODROB/Policy-1/2017-18 Dt. 26.03.2019).
+CR Arputham S., 2021, THERM SCI THERM SCI, V298, DOI [10.2298/TSCI201110298S, DOI 10.2298/TSCI201110298S]
+   Benhadid-Dib S, 2012, ENRGY PROCED, V18, P807, DOI 10.1016/j.egypro.2012.05.096
+   Bharatbiotech, 2020, COVAXIN IND 1 IND CO
+   Cai Y, 2016, ENERG CONVERS MANAGE, V124, P203, DOI 10.1016/j.enconman.2016.07.011
+   Dai DM, 2021, ADV DIFFER EQU-NY, V2021, DOI 10.1186/s13662-020-03173-z
+   Dimri N, 2017, ENERG CONVERS MANAGE, V146, P68, DOI 10.1016/j.enconman.2017.05.017
+   Gianfredi V, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9060574
+   GOI-MOP, 2018, CO 2 BAS DAT IND POW
+   government of India M of H and FW, 2020, COVID 19 VACC OP GUI
+   Government of India Ministry of Health & Family Welfare, 2016, HDB VACC COLD CHAIN
+   Hagenkamp M, 2022, INT J ENERGY ENVIR E, V13, P241, DOI 10.1007/s40095-021-00424-x
+   Healthcare Global, CHALL VACC DISTR AFF
+   Hindu BL-T, IND CAN MEET COVID V
+   India C, 2016, COOLING INDIA MONTHL
+   Jiang P, 2021, ENERGY, V235, DOI 10.1016/j.energy.2021.121315
+   Kirubakaran, 2019, WASTE VALORISATION R, P349
+   Kumar VM, 2021, NPJ VACCINES, V6, DOI 10.1038/s41541-021-00327-2
+   Lalith Pankaj, 2018, INT J ENG TECHNOLOGY, V7, DOI [10.14419/ijet.v7i23314832, DOI 10.14419/IJET.V7I2.33.14832]
+   Raj GNLP, 2021, INT J PHOTOENERGY, V2021, DOI 10.1155/2021/6651717
+   Lee TH, 2021, NEW ENGL J MED, V384, P685, DOI 10.1056/NEJMp2100574
+   Marathe, 2021, TRANSP RES INTERDISC, V10, DOI DOI 10.1016/J.TRIP.2021.100339
+   Marimuthu C, 2013, RENEW SUST ENERG REV, V23, P80, DOI 10.1016/j.rser.2013.02.045
+   Marlow Industries I, THERM COOL SYST DES
+   Mirmanto M, 2019, ENG SCI TECHNOL, V22, P177, DOI 10.1016/j.jestch.2018.09.006
+   Nadimuthu LPR, 2021, IEEE ACCESS, V9, P146959, DOI 10.1109/ACCESS.2021.3123153
+   Nadimuthu LPR, 2021, PROC INTEGR OPTIM, V5, P975, DOI 10.1007/s41660-021-00194-3
+   Nadimuthu LPR, 2021, ENVIRON SCI POLLUT R, V28, P34278, DOI 10.1007/s11356-021-12894-x
+   Ngcobo MEK, 2012, INT J REFRIG, V35, P445, DOI 10.1016/j.ijrefrig.2011.11.008
+   Our World in Data, 2021, COR COVID 19 HOSP ST
+   Padmavathy SR, 2021, ENVIRON SCI POLLUT R, DOI 10.1007/s11356-021-15875-2
+   Raj GNLP, 2018, 2018 4TH INTERNATIONAL CONFERENCE ON ELECTRICAL ENERGY SYSTEMS (ICEES), P726, DOI 10.1109/ICEES.2018.8442352
+   Raj N., THERM SCI, V301, DOI [10.2298/TSCI201211301N, DOI 10.2298/TSCI201211301N, 10.2298/ TSCI201211301N]
+   RetailerTraining N, PROGR 2021 KNOW YOUR
+   Ricco M, 2021, INFECT DIS NOW, V51, P402, DOI 10.1016/j.idnow.2021.03.001
+   Saif A, 2016, EUR J OPER RES, V251, P274, DOI 10.1016/j.ejor.2015.10.056
+   Sarwar S, 2021, J ENVIRON HEALTH SCI, V19, P1513, DOI 10.1007/s40201-021-00707-9
+   Segarra M, 2015, MATER TODAY-PROC, V2, P858, DOI 10.1016/j.matpr.2015.05.111
+   Selvaraj DA, 2021, INT J PHOTOENERGY, V2021, DOI 10.1155/2021/6655113
+   Selvaraj DA, 2021, ENVIRON SCI POLLUT R, V28, P34248, DOI 10.1007/s11356-020-11214-z
+   Sevindir MK, 2017, RENEW ENERG, V113, P74, DOI 10.1016/j.renene.2017.05.070
+   Shaik SV, 2020, ENVIRON SCI POLLUT R, V27, P41415, DOI 10.1007/s11356-020-09478-6
+   Shaik SV, 2020, P I MECH ENG C-J MEC, V234, P914, DOI 10.1177/0954406219884968
+   SPUTNIK V, 2021, AB VACC OFF WEBS COV
+   Sun Xu, 2021, Transp Res Interdiscip Perspect, V11, P100453, DOI 10.1016/j.trip.2021.100453
+   Team SAA, YOURSTORY COM
+   Vigneshwari CA, 2016, 2016 INTERNATIONAL CONFERENCE ON ENERGY EFFICIENT TECHNOLOGIES FOR SUSTAINABILITY (ICEETS), P239, DOI 10.1109/ICEETS.2016.7582933
+   Waheed R, 2018, J CLEAN PROD, V172, P4231, DOI 10.1016/j.jclepro.2017.10.287
+   Wang Y, 2019, SUSTAIN CITIES SOC, V49, DOI 10.1016/j.scs.2019.101599
+   World Health Organization, 2015, IMM PRACT
+   Xu XF, 2018, INT J ENERG RES, V42, P4429, DOI 10.1002/er.4187
+   Zhao CJ, 2016, APPL ENERG, V168, P314, DOI 10.1016/j.apenergy.2016.01.101
+NR 51
+TC 0
+Z9 0
+U1 29
+U2 29
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD APR
+PY 2022
+VL 29
+IS 16
+BP 23767
+EP 23778
+DI 10.1007/s11356-021-17584-2
+EA NOV 2021
+PG 12
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA 0H8WJ
+UT WOS:000721662400006
+PM 34816344
+OA Bronze, Green Published
+DA 2022-05-16
+ER
+
+EF

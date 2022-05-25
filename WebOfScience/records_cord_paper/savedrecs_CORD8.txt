@@ -1,0 +1,108 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Paul, E
+   Brown, GW
+   Kalk, A
+   Ridde, V
+AF Paul, Elisabeth
+   Brown, Garrett W.
+   Kalk, Andreas
+   Ridde, Valery
+TI Playing vaccine roulette: Why the current strategy of staking everything
+   on Covid-19 vaccines is a high-stakes wager
+SO VACCINE
+LA English
+DT Editorial Material
+ID SEROPREVALENCE; SAFETY
+C1 [Paul, Elisabeth] Univ Libre Bruxelles, Sch Publ Hlth, Campus Erasme,Route Lennik 808,CP 591, B-1070 Brussels, Belgium.
+   [Brown, Garrett W.] Univ Leeds, Global Hlth Theme, Leeds, W Yorkshire, England.
+   [Kalk, Andreas] Deutsch Gesell Int Zusammenarbeit, Kinshasa Country Off, Kinshasa, DEM REP CONGO.
+   [Ridde, Valery] Univ Paris, INSERM, Inst Rech Dev IRD, CEPED,IRD, Paris, France.
+RP Paul, E (corresponding author), Univ Libre Bruxelles, Sch Publ Hlth, Campus Erasme,Route Lennik 808,CP 591, B-1070 Brussels, Belgium.
+EM Elisabeth.Paul@ulb.be; G.W.Brown@leeds.ac.uk; andreas.kalk@giz.de;
+   valery.ridde@ird.fr
+OI Paul, Elisabeth/0000-0002-3928-4093; Ridde, Valery/0000-0001-9299-8266
+CR Al Kaabi N, 2021, JAMA-J AM MED ASSOC, V326, P35, DOI 10.1001/jama.2021.8565
+   [Anonymous], 2021, PHARMANEWS
+   Aschwanden C, 2021, NATURE, V591, P520, DOI 10.1038/d41586-021-00728-2
+   Associated Press, 2020, LOS ANGELES TIMES
+   Baden LR, 2021, NEW ENGL J MED, V384, P403, DOI 10.1056/NEJMoa2035389
+   Bavli I, 2020, BMJ-BRIT MED J, V371, DOI 10.1136/bmj.m4074
+   Cambon L, 2021, GLOB HEALTH PROMOT, V28, P3, DOI 10.1177/17579759211015129
+   Cardozo T, 2021, INT J CLIN PRACT, V75, DOI 10.1111/ijcp.13795
+   Collateral Global, REG PUBL AN GLOB IMP
+   Craig P, 2018, TAKING ACCOUNT CONTE, DOI 10.3310/CIHR-NIHR-01
+   Domingo E, 2021, J VIROL, V95, DOI 10.1128/JVI.02437-20
+   Doshi P., BMJ OPINION, V2021
+   Doshi P, 2020, BMJ-BRIT MED J, V371, DOI 10.1136/bmj.m4037
+   Flores LE, 2021, JAMA NETW OPEN, V4, DOI 10.1001/jamanetworkopen.2020.37640
+   Harrington DP, 2021, NEW ENGL J MED, V384, P576, DOI 10.1056/NEJMe2034294
+   He ZY, 2021, LANCET, V397, P1075, DOI 10.1016/S0140-6736(21)00238-5
+   Hill Andrew, 2021, Open Forum Infect Dis, V8, pofab358, DOI 10.1093/ofid/ofab358
+   Hipgrave DB, 2021, LANCET, V397, P1181, DOI 10.1016/S0140-6736(21)00442-6
+   IOANNIDIS JPA, 2021, B WORLD HEALTH ORGAN, V99, P19, DOI [10.1101/2020.05.13.20101253, DOI 10.2471/BLT.20.265892]
+   Jara A, 2021, NEW ENGL J MED, V385, P875, DOI 10.1056/NEJMoa2107715
+   Keehner J, 2021, NEW ENGL J MED, V384, P1774, DOI 10.1056/NEJMc2101927
+   Kostoff RN, 2020, TOXICOL REP, V7, P1448, DOI 10.1016/j.toxrep.2020.10.016
+   Lazarus JV, 2020, NAT MED, V26, P1005, DOI 10.1038/s41591-020-0950-0
+   Ledford H., NATURE, V591
+   Ledford H, 2021, NATURE, V594, P164, DOI 10.1038/d41586-021-01505-x
+   Ledford H, 2020, NATURE, V588, P205, DOI 10.1038/d41586-020-03441-8
+   Logunov DY, 2021, LANCET, V397, P671, DOI 10.1016/S0140-6736(21)00234-8
+   Madhi SA, 2021, NEW ENGL J MED, V384, P1885, DOI 10.1056/NEJMoa2102214
+   Mallapaty S., NATURE, V2021
+   Mallapaty S, 2021, NATURE, V590, P197, DOI 10.1038/d41586-021-00316-4
+   McCartney M, 2020, BMJ-BRIT MED J, V370, DOI 10.1136/bmj.m3473
+   Meltzer David O, 2020, medRxiv, DOI 10.1101/2020.05.08.20095893
+   Michel J, 2021, GLOBAL HEALTH ACTION, V14, DOI 10.1080/16549716.2021.1927315
+   Nelde A, 2021, NAT IMMUNOL, V22, P74, DOI 10.1038/s41590-020-00808-x
+   Neumann-Bohme S, 2020, EUR J HEALTH ECON, V21, P977, DOI 10.1007/s10198-020-01208-6
+   Paul E, 2020, INT J HEALTH POLICY, DOI 10.34172/ijhpm.2020.240
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Remmel A, 2021, NATURE, V590, P538, DOI 10.1038/d41586-021-00290-x
+   Rodriguez Mega E., NATURE, V2021
+   Sadoff J, 2021, NEW ENGL J MED, V384, P2187, DOI 10.1056/NEJMoa2101544
+   Shankar-Hari M, 2021, JAMA-J AM MED ASSOC, V326, P499, DOI 10.1001/jama.2021.11330
+   Soulier M, CLIN INFECT DIS PUBL, V2021
+   Sturmberg J.P., 2018, HLTH SYSTEM REDESIGN
+   Swinburn BA, 2019, LANCET, V393, P791, DOI 10.1016/S0140-6736(18)32822-8
+   Turcotte-Tremblay AM, 2021, BMC MED RES METHODOL, V21, DOI 10.1186/s12874-020-01200-x
+   Vaughn VM, 2021, JAMA NETW OPEN, V4, DOI 10.1001/jamanetworkopen.2021.11788
+   Voysey M, 2021, LANCET, V397, P99, DOI 10.1016/S0140-6736(20)32661-1
+   Whitmee S, 2015, LANCET, V386, P1973, DOI 10.1016/S0140-6736(15)60901-1
+   World Health Organization, VACC IMM
+   World Health Organization, 2021, ACC COVID 19 TOOLS F
+   Zhou H, NAT COMMUN, V12, P1724
+NR 51
+TC 3
+Z9 3
+U1 1
+U2 4
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-410X
+EI 1873-2518
+J9 VACCINE
+JI Vaccine
+PD AUG 16
+PY 2021
+VL 39
+IS 35
+BP 4921
+EP 4924
+DI 10.1016/j.vaccine.2021.07.045
+EA AUG 2021
+PG 4
+WC Immunology; Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Immunology; Research & Experimental Medicine
+GA TX3GY
+UT WOS:000682979100001
+PM 34315610
+OA Bronze, Green Published
+DA 2022-05-16
+ER
+
+EF

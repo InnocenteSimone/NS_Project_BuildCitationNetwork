@@ -1,0 +1,130 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lai, FTT
+   Huang, L
+   Chui, CSL
+   Wan, EYF
+   Li, X
+   Wong, CKH
+   Chan, EWW
+   Ma, TT
+   Lum, DH
+   Leung, JCN
+   Luo, H
+   Chan, EWY
+   Wong, ICK
+AF Lai, Francisco Tsz Tsun
+   Huang, Lei
+   Chui, Celine Sze Ling
+   Wan, Eric Yuk Fai
+   Li, Xue
+   Wong, Carlos King Ho
+   Chan, Edward Wai Wa
+   Ma, Tiantian
+   Lum, Dawn Hei
+   Leung, Janice Ching Nam
+   Luo, Hao
+   Chan, Esther Wai Yin
+   Wong, Ian Chi Kei
+TI Multimorbidity and adverse events of special interest associated with
+   Covid-19 vaccines in Hong Kong
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID VACCINATION; CARE
+AB Prior research using electronic health records for Covid-19 vaccine safety monitoring typically focuses on specific disease groups and excludes individuals with multimorbidity, defined as >= 2 chronic conditions. We examine the potential additional risk of adverse events 28 days after the first dose of CoronaVac or Comirnaty imposed by multimorbidity. Using a territory-wide public healthcare database with population-based vaccination records in Hong Kong, we analyze a retrospective cohort of patients with chronic conditions. Thirty adverse events of special interest according to the World Health Organization are examined. In total, 883,416 patients are included and 2,807 (0.3%) develop adverse events. Results suggest vaccinated patients have lower risks of adverse events than unvaccinated individuals, multimorbidity is associated with increased risks regardless of vaccination, and the association of vaccination with adverse events is not modified by multimorbidity. To conclude, we find no evidence that multimorbidity imposes extra risks of adverse events following Covid-19 vaccination.
+   Adverse events resulting from COVID-19 vaccination are a public health concern and it is not known whether pre-existing conditions may impose an increased risk. Here, using electronic health records from Hong Kong, the authors show that adverse events are rare for all groups, and there is no evidence of risk modification due to multimorbidity.
+C1 [Lai, Francisco Tsz Tsun; Huang, Lei; Wan, Eric Yuk Fai; Wong, Carlos King Ho; Chan, Edward Wai Wa; Ma, Tiantian; Lum, Dawn Hei; Leung, Janice Ching Nam; Chan, Esther Wai Yin; Wong, Ian Chi Kei] Univ Hong Kong, Li Ka Shing Fac Med, Ctr Safe Medicat Practice & Res, Dept Pharmacol & Pharm, Hong Kong, Peoples R China.
+   [Lai, Francisco Tsz Tsun; Chui, Celine Sze Ling; Wan, Eric Yuk Fai; Li, Xue; Wong, Carlos King Ho; Ma, Tiantian; Leung, Janice Ching Nam; Chan, Esther Wai Yin; Wong, Ian Chi Kei] Hong Kong Sci & Technol Pk, Lab Data Discovery Hlth D24H, Hong Kong Sci Pk, Hong Kong, Peoples R China.
+   [Chui, Celine Sze Ling] Univ Hong Kong, Li Ka Shing Fac Med, Sch Nursing, Hong Kong, Peoples R China.
+   [Chui, Celine Sze Ling] Univ Hong Kong, Li Ka Shing Fac Med, Sch Publ Hlth, Hong Kong, Peoples R China.
+   [Wan, Eric Yuk Fai; Wong, Carlos King Ho] Univ Hong Kong, Li Ka Shing Fac Med, Dept Family Med & Primary Care, Hong Kong, Peoples R China.
+   [Li, Xue] Univ Hong Kong, Li Ka Shing Fac Med, Dept Med, Hong Kong, Peoples R China.
+   [Luo, Hao] Univ Hong Kong, Fac Social Sci, Dept Social Work & Social Adm, Hong Kong, Peoples R China.
+   [Luo, Hao] Univ Hong Kong, Fac Engn, Dept Comp Sci, Hong Kong, Peoples R China.
+   [Wong, Ian Chi Kei] UCL, Sch Pharm, Res Dept Practice & Policy, London, England.
+RP Wong, ICK (corresponding author), Univ Hong Kong, Li Ka Shing Fac Med, Ctr Safe Medicat Practice & Res, Dept Pharmacol & Pharm, Hong Kong, Peoples R China.; Wong, ICK (corresponding author), Hong Kong Sci & Technol Pk, Lab Data Discovery Hlth D24H, Hong Kong Sci Pk, Hong Kong, Peoples R China.; Wong, ICK (corresponding author), UCL, Sch Pharm, Res Dept Practice & Policy, London, England.
+EM wongick@hku.hk
+RI Lai, Francisco TT/F-3842-2019; Wong, Carlos King-ho/B-4322-2011
+OI Lai, Francisco TT/0000-0002-9121-1959; Wong, Carlos
+   King-ho/0000-0002-6895-6071
+FU Food and Health Bureau, Government of the Hong Kong Special
+   Administrative Region of China [COVID19F01]
+FX This study was funded by a research grant from the Food and Health
+   Bureau, Government of the Hong Kong Special Administrative Region of
+   China to Prof. Ian Chi Kei Wong (reference COVID19F01). We thank Mr.
+   Joseph Blais for language proofreading this manuscript.
+CR Barda N, 2021, NEW ENGL J MED, V385, P1078, DOI 10.1056/NEJMoa2110475
+   Barnett K, 2012, LANCET, V380, P37, DOI 10.1016/S0140-6736(12)60240-2
+   Brilleman SL, 2013, FAM PRACT, V30, P172, DOI 10.1093/fampra/cms060
+   Calderon-Larranaga A, 2012, BRIT J GEN PRACT, V62, DOI 10.3399/bjgp12X659295
+   Centre for Health Protection, INT GUID NOT COMM ME
+   Centre for Health Protection, HONG KONG VACC DASHB
+   Chiu SS, 2002, NEW ENGL J MED, V347, P2097, DOI 10.1056/NEJMoa020546
+   Chung GKK, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18158168
+   Dagan N, 2021, NEW ENGL J MED, V384, P1412, DOI 10.1056/NEJMoa2101765
+   de Simone G, 2021, EUR HEART J-CARD PHA, V7, pE77, DOI 10.1093/ehjcvp/pvab036
+   Hanlon P, 2018, BMJ OPEN, V8, DOI 10.1136/bmjopen-2017-018404
+   Hong Kong Government, COVID 19 VACC PROGR
+   Iaccarino G, 2020, HYPERTENSION, V76, P366, DOI 10.1161/HYPERTENSIONAHA.120.15324
+   Incalzi RA, 2021, VACCINE, V39, P2325, DOI 10.1016/j.vaccine.2021.03.066
+   Kwok KO, 2021, EMERG INFECT DIS, V27, P1802, DOI 10.3201/eid2707.210054
+   Lai FTT, 2022, PSYCHOL MED, V52, P283, DOI 10.1017/S0033291720001920
+   Lai FTT, 2019, EUR J INTERN MED, V61, P103, DOI 10.1016/j.ejim.2018.12.001
+   Lau WCY, 2017, JAMA-J AM MED ASSOC, V317, P1151, DOI 10.1001/jama.2017.1363
+   Leung GM, 2009, HEALTH ECON, V18, P37, DOI 10.1002/hec.1342
+   Li X., ANN RHEUM DIS, DOI [10.1136/annrheumdis-2021-221571(2021), DOI 10.1136/ANNRHEUMDIS-2021-221571(2021)]
+   Li XT, 2021, BMJ-BRIT MED J, V373, DOI 10.1136/bmj.n1435
+   Man KKC, 2017, BMJ-BRIT MED J, V357, DOI 10.1136/bmj.j2350
+   Marengoni A, 2015, BMJ-BRIT MED J, V350, DOI 10.1136/bmj.h1059
+   Monin L, 2021, LANCET ONCOL, V22, P765, DOI 10.1016/S1470-2045(21)00213-8
+   Montgomery J, 2021, JAMA CARDIOL, V6, P1202, DOI 10.1001/jamacardio.2021.2833
+   Nguyen Hai, 2019, J Comorb, V9, p2235042X19870934, DOI 10.1177/2235042X19870934
+   Ostergaard SD, 2021, LANCET, V397, P1441, DOI 10.1016/S0140-6736(21)00762-5
+   Patone M, 2021, NAT MED, V27, P2144, DOI 10.1038/s41591-021-01556-7
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Revon-Riviere G, 2021, EUR J CANCER, V154, P30, DOI 10.1016/j.ejca.2021.06.002
+   Salah HM, 2021, AM J CARDIOL, V157, P146, DOI 10.1016/j.amjcard.2021.07.009
+   Sturkenboom M, COVERAGE COVID 19 VA
+   Su S, 2021, NAT REV MICROBIOL, V19, P211, DOI 10.1038/s41579-020-00462-y
+   Takuva S, 2021, NEW ENGL J MED, V385, P570, DOI 10.1056/NEJMc2107920
+   Tanriover MD, 2021, LANCET, V398, P213, DOI 10.1016/S0140-6736(21)01429-X
+   Tonelli M, 2015, BMC MED INFORM DECIS, V15, DOI 10.1186/s12911-015-0155-5
+   Tsai R., JMIR PUBLIC HLTH SUR, DOI [10.2196/29872(2021, DOI 10.2196/29872(2021]
+   Wang JT, 2021, J HEPATOL, V75, P439, DOI 10.1016/j.jhep.2021.04.026
+   Wong AYS, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.h6926
+   World Health Organization, 2020, BACKGR PAP COV 19 DI
+   Wu QH, 2021, BMC MED, V19, DOI 10.1186/s12916-021-02059-5
+   Yeoh EK, 2020, HEALTH POLICY, V124, P189, DOI 10.1016/j.healthpol.2019.12.009
+   Zhao JJ, 2020, CLIN INFECT DIS, V71, P2027, DOI 10.1093/cid/ciaa344
+   Zhao QY, 2017, J CAUSAL INFERENCE, V5, DOI 10.1515/jci-2016-0010
+NR 44
+TC 5
+Z9 5
+U1 3
+U2 3
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JAN 20
+PY 2022
+VL 13
+IS 1
+AR 411
+DI 10.1038/s41467-022-28068-3
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA YK8QB
+UT WOS:000745469500002
+PM 35058463
+OA Green Published, gold
+DA 2022-05-16
+ER
+
+EF
