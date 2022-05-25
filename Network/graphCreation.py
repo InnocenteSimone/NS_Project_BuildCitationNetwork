@@ -3,15 +3,12 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-def plotGraph(cit_net):
-    plt.figure(3, figsize=(25,25))  
-    pos = nx.spring_layout(cit_net)
-    nx.draw(cit_net, with_labels=True,pos=pos)
-    plt.savefig("network.png")
-    plt.show()
-
 def createGraph(edges,nodes):
-    graph = nx.from_pandas_edgelist(edges, source='citing_pub_index', target='cited_pub_index',create_using=nx.DiGraph())
+    graph = nx.DiGraph()
+    records = edges.to_records(index=False)
+    result = list(records)
+    graph.add_nodes_from(nodes.index)
+    graph.add_edges_from(result)
     nx.set_node_attributes(graph, values=pd.Series(nodes.title, index=nodes.index).to_dict(), name='Title')
     nx.set_node_attributes(graph, values=pd.Series(nodes.year, index=nodes.index).to_dict(), name='Pubblication year')
     nx.set_node_attributes(graph, values=pd.Series(nodes.authors, index=nodes.index).to_dict(), name='Authors')
@@ -55,6 +52,7 @@ def find_n_top(n, graph, measure):
 
 
 def computeMetrics(graph):
+    print(nx.info(graph))
     print(f"Number of nodes: {nx.number_of_nodes(graph)}")
     print(f"Number of edges: {nx.number_of_edges(graph)}")
 
@@ -78,24 +76,24 @@ def computeMetrics(graph):
     degrees = [graph.in_degree(n) for n in graph.nodes()]
     plt.hist(degrees)
     plt.title("Degree Histogram")
-    plt.savefig("hist_Degree-png")
+    plt.savefig("images/hist_Degree-png")
     plt.show()
 
     degree_sequence = sorted([d for n, d in graph.degree()], reverse=True)
     plt.loglog(degree_sequence,marker='*')
     plt.title("Degree Sequence")
-    plt.savefig("degree_seq.png")
+    plt.savefig("images/degree_seq.png")
     plt.show()
  
 
 
 if __name__ == '__main__':
-  nodes = pd.read_csv('pubblications.txt',sep='\t') 
-  edges = pd.read_csv('citations.txt',sep='\t')
+  nodes = pd.read_csv('data/pubblications.txt',sep='\t') 
+  edges = pd.read_csv('data/citations.txt',sep='\t')
 
   citation_network = createGraph(edges,nodes)
 
   #Create .csv file for gephi
-  createFileCSV(nodes,edges)
+  #createFileCSV(nodes,edges)
   
   computeMetrics(citation_network)
